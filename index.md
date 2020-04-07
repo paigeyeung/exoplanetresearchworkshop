@@ -7,7 +7,10 @@ title: Home
 
 Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project. We meet weekly [in Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} on Wednesdays at 1pm Pacific Time.
 
-If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}. [Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.
+If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}.
+
+[Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.</p>
+
 <pre>
 Quinn: <a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a> (EXOTIC, Python, AIJ, or the project in general)
 Peyton:  <a href="mailto:peytonwrobertson@gmail.com">peytonwrobertson@gmail.com</a>
