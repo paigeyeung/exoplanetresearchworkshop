@@ -1,19 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 @media only screen and (max-width: 600px) {
-	.page-display {
+	.page-display, #nav {
 		width: 80%;
+	}
+	.column {
+		width: 100%;
 	}
 }
 
 @media only screen and (min-width: 600px) and (max-width: 900px) {
-	.page-display {
+	.page-display, #nav {
 		width: 75%;
 	}
 }
 
 @media only screen and (min-width: 900px) {
-	.page-display {
+	.page-display, #nav {
 		width: 70%;
 	}
 }
@@ -30,9 +33,7 @@
 	align-items: center;
 	overflow: scroll;
 	background-color: transparent;
-	padding: 0% 15% 4% 15%;
-	/* margin-left: 1rem;
-	margin-right: 1rem; */
+	padding: 0% 15% 2% 15%;
 }
 
 body {
@@ -51,15 +52,55 @@ a {
 	color: #fff;
 	text-decoration: none;
 	transition: color 0.25s ease-in;
-	border-bottom: 0.01rem solid rgb(131,195,255);;
+	border-bottom: 0.01rem solid rgb(131,195,255);
 }
 
 a:hover, #nav a:active {
 	color: rgb(131,195,255);
 }
 
+.nav {
+	position: relative;
+	padding: 0;
+	margin-top: 2%;
+    list-style: none;
+    text-align: center;
+}
+
 #nav .nav-item {
 	display: inline;
+	text-align: center;
 	margin-left: 0.5rem;
 	margin-right: 0.5rem;
+}
+
+.row {
+	display: flex;
+}
+  
+.column {
+	flex: 50%;
+}
+
+input[type=text], input[type=email], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc; 
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 0.5rem;
+	margin-bottom: 1rem;
+	resize: vertical;
+}
+  
+input[type=submit] {
+	background-color: rgb(71, 166, 255);
+	color: #fff;
+	padding: 0.5rem 1.5rem;
+	border: none;
+	border-radius: 1rem;
+	cursor: pointer;
+	text-align: right;
+	font-family: 'Open Sans',system-ui,sans-serif;
+	font-weight: bold;
 }
