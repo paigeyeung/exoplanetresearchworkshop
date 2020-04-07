@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
 	.page-display, #nav {
 		width: 80%;
 	}
@@ -9,6 +9,8 @@
 	}
 	.column {
 		width: 100%;
+		text-align: center;
+		padding: 2%;
 	}
 }
 
@@ -76,13 +78,15 @@ a:hover, #nav a:active {
 	margin-left: 0.5rem;
 	margin-right: 0.5rem;
 }
-
-.row {
-	display: flex;
-}
-  
-.column {
-	flex: 50%;
+@media only screen and (min-width: 600px) {
+	.row {
+		display: flex;
+	}
+	.column {
+		flex: 50%;
+		padding: 2%;
+		text-align:center;
+	}
 }
 
 input[type=text], input[type=email], select, textarea {
