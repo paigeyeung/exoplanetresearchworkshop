@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@media only screen and (max-width: 600px) {
+	.page-display {
+		width: 80%;
+	}
+}
+
+@media only screen and (min-width: 600px) and (max-width: 900px) {
+	.page-display {
+		width: 75%;
+	}
+}
+
+@media only screen and (min-width: 900px) {
+	.page-display {
+		width: 70%;
+	}
+}
+  
+.content-container {
+	display: block;
+    width: 100%;
+    margin: 0;
+}
+
+.page-display {
+	display: inline-block;
+	width: 70%;
+	align-items: center;
+	overflow: scroll;
+	background-color: transparent;
+	padding: 0% 15% 4% 15%;
+	/* margin-left: 1rem;
+	margin-right: 1rem; */
+}
+
+body {
+    font-family: "Open Sans", system-ui, sans-serif;
+    color: #fff;
+	background-color: #333;
+	line-height: 1.7rem;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2rem;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	transition: color 0.25s ease-in;
+	border-bottom: 0.01rem solid rgb(131,195,255);;
+}
+
+a:hover, #nav a:active {
+	color: rgb(131,195,255);
+}
+
+#nav .nav-item {
+	display: inline;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}

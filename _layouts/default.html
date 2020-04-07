@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  {% include head.html %}
+  <body>
+    <center><ul id="nav" class="nav">
+      <a href="/" class="nav-item">Home</a>
+      <a href="/getting-started/" class="nav-item">Getting Started</a>
+      <a href="/recordings/" class="nav-item">Meeting Recordings</a>
+    </ul></center>
+    <div class="content-container">
+        <div class="page-display">
+            {{ content }}
+        </div>
+  {% include foot.html %}
