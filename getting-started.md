@@ -16,4 +16,4 @@ The download links are below.
 * [AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/)
 * [SAOImage DS9](http://ds9.si.edu/site/Download.html)
 
-You can find text instructions for using AstroImageJ [here](https://docs.google.com/document/d/1wN5WhPDCFvLuUglR9uC-6S_c7tDQUbYdOmVoD4NUQ1c/edit).
+You can find text instructions for using AstroImageJ [here](https://docs.google.com/document/d/1wN5WhPDCFvLuUglR9uC-6S_c7tDQUbYdOmVoD4NUQ1c/edit) and video instructions [here](https://www.youtube.com/watch?v=-GGLPy71ryg&feature=youtu.be).
