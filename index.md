@@ -9,7 +9,7 @@ Welcome to the main page for the Exoplanet Research Workshop! We're excited that
 
 If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}.
 
-[Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.</p>
+[Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.
 
 <pre>
 Quinn: <a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a> (EXOTIC, Python, AIJ, or the project in general)
