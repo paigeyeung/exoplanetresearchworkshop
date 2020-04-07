@@ -25,4 +25,6 @@ If you have not signed up yet or would like to recruit your friends, here is the
 * [Form to record transit results](https://docs.google.com/forms/d/e/1FAIpQLSe3PRVpEcandrBLA0dvziP2wYN_K-7Qlcco4GQDPCxbD3Cw5g/viewform?usp=sf_link){:target="_blank"}
 
 ## Leaderboard
-Coming soon
+See below, or check [here](https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/){:target="_blank"} for the leaderboard.
+
+<center><iframe width='500' height='500' frameborder='0' scrolling='no' src='https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/'>&range=A1:G33&widget=false&chrome=false</iframe></center>
