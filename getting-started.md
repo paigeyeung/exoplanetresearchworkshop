@@ -5,7 +5,9 @@ title: Getting Started
 
 # Getting Started
 
-## Imaging Software
+See [this document](https://docs.google.com/document/d/1pvc_VuJrGJ2RAnDcASRZ8zGNFV2TPjd8K1PaKbrhOBE/edit?usp=sharing){:target="_blank"} for detailed instructions.
+
+## Downloading Imaging Software
 
 We would recommend using AstroImageJ, but feel free to use another astronomical imaging software. AIJ is tricky with Catalina, so if you are running Catalina, SAOImage DS9 may work better.
 
