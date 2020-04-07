@@ -11,7 +11,8 @@ If you have not signed up yet or would like to recruit your friends, here is the
 
 ## Latest Update (April 6, 2020)
 
-* Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups.
+* Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups. 
+    * If you don't have anyone you know already in the Exoplanet Research Workshop and would like to form a group from your friends, try to recruit some freinds to join! Send their email(s) and name(s) to qperian@ohs.stanford.edu in addition to filling out (or having them fill out) the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"} with their name and we will get them set up with what they need. Otherwise, if you fill out [the above form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} and mark that you don't have a group, we will match you with a group.
 
 ## Running Transits
 
