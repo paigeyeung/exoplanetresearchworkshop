@@ -8,14 +8,14 @@ title: Home
 Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project. We meet weekly [in Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} on Wednesdays at 1pm Pacific Time.
 
 If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}. [Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.
-
-Quinn: qperian@ohs.stanford.edu / quinn.perian@outlook.com (anything about EXOTIC, python -- more on this later, AIJ for windows, or questions about the project in general)
-Peyton:  peytonwrobertson@gmail.com
-Elliott: elliottq@ohs.stanford.edu (AIJ for Mac, EXOTIC offline, or anything else!)
-Ryan: ryanjc314@gmail.com 
-Paige: paige.yeung@gmail.com (AIJ/DS9 on Catalina, general questions)
-Kalee: kaleeg@stanford.edu (especially for accessing the files if Gdrive misbehaves)
-
+<pre>
+Quinn: <a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a> (EXOTIC, Python, AIJ, or the project in general)
+Peyton:  <a href="mailto:peytonwrobertson@gmail.com">peytonwrobertson@gmail.com</a>
+Elliott: <a href="mailto:elliottq@ohs.stanford.edu">elliottq@ohs.stanford.edu</a> (AIJ for Mac, EXOTIC offline, or anything else!)
+Ryan: <a href="mailto:ryanjc314@gmail.com ">ryanjc314@gmail.com </a>
+Paige: <a href="mailto:paige.yeung@gmail.com">paige.yeung@gmail.com</a> (AIJ/DS9 on Catalina, general questions)
+Kalee: <a href="mailto:kaleeg@stanford.edu">kaleeg@stanford.edu</a> (especially for accessing the files if Gdrive misbehaves)
+</pre>
 ## Latest Update (April 6, 2020)
 
 * Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups. 
