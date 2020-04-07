@@ -5,7 +5,7 @@ title: Home
 
 # Exoplanet Research Workshop
 
-Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project. We meet weekly in Zoom on Wednesdays at 1pm Pacific Time.
+Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project. We meet weekly [in Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} on Wednesdays at 1pm Pacific Time.
 
 If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}.
 
