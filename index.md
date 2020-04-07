@@ -9,16 +9,45 @@ Welcome to the main page for the Exoplanet Research Workshop! We're excited that
 
 If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}.
 
-[Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.</p>
+[Join the Slack workspace](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.
 
-<pre>
-Quinn: <a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a> (EXOTIC, Python, AIJ, or the project in general)
-Peyton:  <a href="mailto:peytonwrobertson@gmail.com">peytonwrobertson@gmail.com</a>
-Elliott: <a href="mailto:elliottq@ohs.stanford.edu">elliottq@ohs.stanford.edu</a> (AIJ for Mac, EXOTIC offline, or anything else!)
-Ryan: <a href="mailto:ryanjc314@gmail.com ">ryanjc314@gmail.com </a>
-Paige: <a href="mailto:paige.yeung@gmail.com">paige.yeung@gmail.com</a> (AIJ/DS9 on Catalina, general questions)
-Kalee: <a href="mailto:kaleeg@stanford.edu">kaleeg@stanford.edu</a> (especially for accessing the files if Gdrive misbehaves)
-</pre>
+<div class="row">
+    <div class="column">
+        <strong>Quinn Perian</strong><br><a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a><br>
+        (EXOTIC, Python, AIJ, or the project in general)
+    </div>
+    <div class="column">
+        <strong>Ryan Caputo</strong><br><a href="mailto:ryanjc314@gmail.com">ryanjc314@gmail.com</a><br>
+        (general questions)
+    </div>
+</div>
+
+
+<div class="row" style="margin-top:1rem">
+    <div class="column">
+        <strong>Paige Yeung</strong><br><a href="mailto:paige.yeung@gmail.com">paige.yeung@gmail.com</a><br>
+        (AIJ/DS9 on Catalina, general questions)
+    </div>
+    <div class="column">
+        <strong>Elliott Chalcraft</strong><br><a href="mailto:elliottq@ohs.stanford.edu">elliottq@ohs.stanford.edu</a><br>
+        (AIJ for Mac, EXOTIC offline, or anything else!)
+    </div>
+</div>
+
+
+<div class="row" style="margin-top:1rem">
+    <div class="column">
+        <strong>Peyton Robertson</strong><br><a href="mailto:peytonwrobertson@gmail.com">peytonwrobertson@gmail.com</a><br>
+        (general questions)
+    </div>
+    <div class="column">
+        <strong>Kalee Tock</strong><br><a href="mailto:kaleeg@stanford.edu">kaleeg@stanford.edu</a><br>
+        (especially for accessing the files if Gdrive misbehaves)
+    </div>
+</div>
+
+
+
 ## Latest Update (April 6, 2020)
 
 * Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups. 
