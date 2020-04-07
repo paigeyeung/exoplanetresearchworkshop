@@ -9,9 +9,20 @@ Welcome to the main page for the Exoplanet Research Workshop! We're excited that
 
 If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}.
 
+[Join the slack channel](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or email any of us to ask questions.</p>
+
+<pre>
+Quinn: <a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a> (EXOTIC, Python, AIJ, or the project in general)
+Peyton:  <a href="mailto:peytonwrobertson@gmail.com">peytonwrobertson@gmail.com</a>
+Elliott: <a href="mailto:elliottq@ohs.stanford.edu">elliottq@ohs.stanford.edu</a> (AIJ for Mac, EXOTIC offline, or anything else!)
+Ryan: <a href="mailto:ryanjc314@gmail.com ">ryanjc314@gmail.com </a>
+Paige: <a href="mailto:paige.yeung@gmail.com">paige.yeung@gmail.com</a> (AIJ/DS9 on Catalina, general questions)
+Kalee: <a href="mailto:kaleeg@stanford.edu">kaleeg@stanford.edu</a> (especially for accessing the files if Gdrive misbehaves)
+</pre>
 ## Latest Update (April 6, 2020)
 
-* Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups.
+* Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups. 
+    * If you don't have anyone you know already in the Exoplanet Research Workshop and would like to form a group from your friends, try to recruit some freinds to join! Send their email(s) and name(s) to qperian@ohs.stanford.edu in addition to filling out (or having them fill out) the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"} with their name and we will get them set up with what they need. Otherwise, if you fill out [the above form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} and mark that you don't have a group, we will match you with a group.
 
 ## Running Transits
 
