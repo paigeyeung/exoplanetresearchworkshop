@@ -5,7 +5,7 @@ title: Meeting Recordings
 
 # Recordings
 
-[04/08/2020] Week 2: Forming Groups, Discussing EXOTIC Experiences<br>
+[04/08/2020] Week 2: Forming Groups, Discussing EXOTIC Experiences, Introducing New Tools<br>
 Recording |
 Slides
 
