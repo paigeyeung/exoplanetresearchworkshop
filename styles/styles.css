@@ -20,6 +20,9 @@
 		width: 100%;
 		padding: 2%;
 	}
+	.light-box {
+		margin-bottom: 1rem;
+	}
 }
 
 @media only screen and (min-width: 900px) {
@@ -154,8 +157,7 @@ input[type=submit] {
 	box-shadow: 0.25rem 0.25rem 2rem 0rem rgba(0, 0, 0, 0.15);
 	border-radius: 1.5rem;
 	padding: 4%;
-	margin-left: 0.5rem;
-	margin-right: 0.5rem;
+	margin-right: 1rem;
 }
 
 h2 {
