@@ -5,18 +5,23 @@ title: Getting Started
 
 # Getting Started
 
-You can start out by using the EXOTIC program to run transits. First, you will have to download imaging software to view the images. Please see the recording and slides from the first meeting for more background.
+You can start out by using the EXOTIC program ([link to repository](https://github.com/blaserethan/EXOTIC){:target=_blank}) to run transits. First, you will have to download imaging software to view the images. Please see the recording and slides from the first meeting for more background.
 
-## Downloading Imaging Software
+<div class="row">
+<div class="column light-box" markdown="1">
 
-We would recommend using AstroImageJ, but feel free to use another astronomical imaging software. AIJ is tricky with Catalina, so if you are running Catalina, SAOImage DS9 may work better.
+## Imaging Software
 
-The download links are below.
+We would recommend using AstroImageJ, but feel free to use another astronomical imaging software. AIJ is tricky with Catalina, so if you are running Catalina, SAOImageDS9 may work better.
 
-* [AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/)
-* [SAOImage DS9](http://ds9.si.edu/site/Download.html)
+Download AstroImageJ and/or SAOImageDS9 at these links: [AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/) |
+[SAOImageDS9](http://ds9.si.edu/site/Download.html). [Contact us](/contact/) if you run into any download issues.
 
 You can find text instructions for using AstroImageJ [here](https://docs.google.com/document/d/1wN5WhPDCFvLuUglR9uC-6S_c7tDQUbYdOmVoD4NUQ1c/edit) and video instructions [here](https://www.youtube.com/watch?v=-GGLPy71ryg&feature=youtu.be).
+
+</div>
+
+<div class="column light-box" markdown="1">
 
 ## Running Transits
 
@@ -28,3 +33,6 @@ You can find text instructions for using AstroImageJ [here](https://docs.google.
 [Box](https://stanford.box.com/s/u3ngkm83c99u3c0j6e85xcuh7rwqe446){:target="_blank"}
 * [Transit assignment spreadsheet](https://docs.google.com/spreadsheets/d/1NqZnsZG8ColsPdLbLJyAmaTjcoK-oFQJBMtGhxdqyGs/edit#gid=0){:target="_blank"}
 * [Form to record transit results](https://docs.google.com/forms/d/e/1FAIpQLSe3PRVpEcandrBLA0dvziP2wYN_K-7Qlcco4GQDPCxbD3Cw5g/viewform?usp=sf_link){:target="_blank"}
+
+</div>
+</div>

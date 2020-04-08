@@ -5,7 +5,9 @@ title: Home
 
 # Exoplanet Research Workshop
 
-<h2 style="text-transform:uppercase;letter-spacing:0.1rem;font-size:1.2rem;text-align:center">Join us Wednesdays @ 1pm PDT in <a href="https://stanford.zoom.us/j/2940180841" target="_blank">Zoom</a></h2>
+<h2 style="text-transform:uppercase;letter-spacing:0.1rem;font-size:1.2rem;text-align:center;margin-bottom:1.8rem;font-weight:normal" markdown="1">
+Join us on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target=_blank}
+</h2>
 
 Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project.
 

@@ -15,6 +15,23 @@
 	}
 }
 
+@media only screen and (max-width: 900px) {
+	.column {
+		width: 100%;
+		padding: 2%;
+	}
+}
+
+@media only screen and (min-width: 900px) {
+	.row {
+		display: flex;
+	}
+	.column {
+		flex: 50%;
+		padding: 2%;
+	}
+}
+
 @media only screen and (min-width: 600px) and (max-width: 900px) {
 	.page-display, #nav {
 		width: 75%;
@@ -73,10 +90,12 @@ a:hover, .light-box a:hover, #nav a:active {
 
 .nav {
 	position: relative;
+	background-color: #000;
 	padding: 0;
 	margin-top: 2%;
+	width: 100%;
     list-style: none;
-    text-align: center;
+	text-align: center;
 }
 
 #nav .nav-item {
@@ -84,16 +103,6 @@ a:hover, .light-box a:hover, #nav a:active {
 	text-align: center;
 	margin-left: 0.8rem;
 	margin-right: 0.8rem;
-}
-@media only screen and (min-width: 600px) {
-	.row {
-		display: flex;
-	}
-	.column {
-		flex: 50%;
-		padding: 2%;
-		text-align:center;
-	}
 }
 
 input[type=text], input[type=email], select, textarea {
@@ -105,6 +114,10 @@ input[type=text], input[type=email], select, textarea {
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
 	resize: vertical;
+}
+
+ul li {
+	margin-left: -1rem;
 }
   
 input[type=submit] {
@@ -119,18 +132,30 @@ input[type=submit] {
 	font-weight: bold;
 }
 
-.light-box {
+/* .dark-box {
 	display: inline-block;
 	width: 92%;
 	align-items: center;
+	overflow: scroll;
+	background-color: black;
+	color: white;
+	box-shadow: 0.25rem 0.25rem 2rem 0rem rgba(0, 0, 0, 0.15);
+	border-radius: 1.5rem;
+	padding: 4%;
+} */
+
+.light-box {
+	display: inline-block;
+	background-size: contain;
+	width: 92%;
 	overflow: scroll;
 	background-color: white;
 	color: black;
 	box-shadow: 0.25rem 0.25rem 2rem 0rem rgba(0, 0, 0, 0.15);
 	border-radius: 1.5rem;
 	padding: 4%;
-	margin-top: 1rem;
-	margin-bottom: 1rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
 }
 
 h2 {
