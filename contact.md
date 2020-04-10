@@ -7,6 +7,7 @@ title: Contact Us
 
 You can email any of us (our emails are listed below) or ask questions on our [Slack workspace](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ). <!--Invite expires May 1--> 
 
+<div class="light-box">
 <div class="row">
     <div class="column">
         <strong>Quinn Perian</strong><br><a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a><br>
@@ -40,6 +41,7 @@ You can email any of us (our emails are listed below) or ask questions on our [S
         <strong>Kalee Tock</strong><br><a href="mailto:kaleeg@stanford.edu">kaleeg@stanford.edu</a><br>
         (especially for accessing the files if Gdrive misbehaves)
     </div>
+</div>
 </div>
 
 <!-- <form name="contact" method="post" data-netlify="true">
