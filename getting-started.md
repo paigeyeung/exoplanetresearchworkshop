@@ -38,7 +38,8 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
 * [Spreadsheet of transits that have been run](https://docs.google.com/spreadsheets/d/1oqnEk49SpIN2oui4Q4ZrY14h0MEhSxesMuuB3GuycD8/edit?usp=sharing){:target="_blank"}
 * [Doc for uploading lightcurve images](https://docs.google.com/document/d/1mpFZcO7s-mDykqqrw1Vvk0lCj4KK2TfK768FGKCTu8A/edit?usp=sharing){:target="_blank"}
 * [Instructions for fixing bad transits](https://youtu.be/HQAulcrkQok){:target="_blank"} |
-[Program for viewing fits files](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"} | [Alternative option: DS9 (less features)](https://youtu.be/3aDeZfzlpl4){:target="_blank"}
+[Program for viewing fits files](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"} |
+[Alternative option: DS9 (less features)](https://youtu.be/3aDeZfzlpl4){:target="_blank"}
 
 </div>
 </div>
