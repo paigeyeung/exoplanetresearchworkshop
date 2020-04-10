@@ -15,6 +15,7 @@ You can use this page to refer back to recordings and important information from
 
 **Week 1 (04/01/2020): Introduction to Project**<br>
 [Recording](https://www.youtube.com/watch?v=WnOaErRsxjs&feature=youtu.be){:target="_blank"} |
-[Slides](https://docs.google.com/presentation/d/1uk-0tc5WFz__pGBo8ZcAizhvzdP5trFC_slExausGRk/edit#slide=id.p){:target="_blank"}
+[Slides](https://docs.google.com/presentation/d/1uk-0tc5WFz__pGBo8ZcAizhvzdP5trFC_slExausGRk/edit#slide=id.p){:target="_blank"} |
+[Instructions](https://docs.google.com/document/d/1pvc_VuJrGJ2RAnDcASRZ8zGNFV2TPjd8K1PaKbrhOBE/edit){:target="_blank"}
 
 </div>
