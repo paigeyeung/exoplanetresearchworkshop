@@ -6,7 +6,7 @@ title: Home
 # Exoplanet Research Workshop
 
 <h2 style="text-transform:uppercase;letter-spacing:0.1rem;font-size:1.2rem;text-align:center;margin-bottom:1.8rem;font-weight:normal" markdown="1">
-Join us on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target=_blank}
+Join us on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"}
 </h2>
 
 Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project.
@@ -23,7 +23,7 @@ We would recommend you to come to our [weekly meetings](https://stanford.zoom.us
 
 ## Latest Update (April 10, 2020)
 
-If you are in a group, please add your group information [here](https://docs.google.com/spreadsheets/d/1HP2-14ZMguOPumY4elrvI0DWXtu5y-hBAa-Vdq0m_h8/edit?usp=sharing){:target=_blank}. Otherwise, email [Quinn](mailto:perian@ohs.stanford.edu){:target="_blank"} so that he can make a group for you and add your group to the sheet. Detailed instructions for what to do before the 4/15 meeting are [here](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target=_blank}. 
+If you are in a group, please add your group information [here](https://docs.google.com/spreadsheets/d/1HP2-14ZMguOPumY4elrvI0DWXtu5y-hBAa-Vdq0m_h8/edit?usp=sharing){:target="_blank"}. Otherwise, email [Quinn](mailto:perian@ohs.stanford.edu){:target="_blank"} so that he can make a group for you and add your group to the sheet. Detailed instructions for what to do before the 4/15 meeting are [here](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target="_blank"}. 
 
 </div>
 
