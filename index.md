@@ -23,7 +23,7 @@ We would recommend you to come to our [weekly meetings](https://stanford.zoom.us
 
 ## Latest Update (April 10, 2020)
 
-If you are in a group, please add your group information [here](https://docs.google.com/spreadsheets/d/1HP2-14ZMguOPumY4elrvI0DWXtu5y-hBAa-Vdq0m_h8/edit?usp=sharing){:target="_blank"}. Otherwise, email [Quinn](mailto:perian@ohs.stanford.edu){:target="_blank"} so that he can make a group for you and add your group to the sheet. Detailed instructions for what to do before the 4/15 meeting are [here](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target="_blank"}. 
+If you are in a group, please add your group information [here](https://docs.google.com/spreadsheets/d/1HP2-14ZMguOPumY4elrvI0DWXtu5y-hBAa-Vdq0m_h8/edit?usp=sharing){:target="_blank"}. Otherwise, email [Quinn](mailto:qperian@ohs.stanford.edu){:target="_blank"} so that he can make a group for you and add your group to the sheet. Detailed instructions for what to do before the 4/15 meeting are [here](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target="_blank"}. 
 
 </div>
 
