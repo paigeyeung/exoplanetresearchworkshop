@@ -1,0 +1,5 @@
+url: https://exoplanetresearch.netlify.com
+title: "Exoplanet Research Workshop"
+permalink: /:title/
+include:
+  - _redirects
