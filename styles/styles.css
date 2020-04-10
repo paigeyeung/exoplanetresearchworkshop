@@ -3,7 +3,7 @@
 
 @media only screen and (max-width: 600px) {
 	.page-display, #nav {
-		width: 80%;
+		width: 90%;
 	}
 	.row {
 		display: inline;
@@ -144,18 +144,6 @@ input[type=submit] {
 	font-family: 'Open Sans',system-ui,sans-serif;
 	font-weight: bold;
 }
-
-/* .dark-box {
-	display: inline-block;
-	width: 92%;
-	align-items: center;
-	overflow: scroll;
-	background-color: black;
-	color: white;
-	box-shadow: 0.25rem 0.25rem 2rem 0rem rgba(0, 0, 0, 0.15);
-	border-radius: 1.5rem;
-	padding: 4%;
-} */
 
 .light-box {
 	display: inline-block;
