@@ -21,10 +21,9 @@ We would recommend you to come to our [weekly meetings](https://stanford.zoom.us
 
 <div class="light-box" markdown="1">
 
-## Latest Update (April 6, 2020)
+## Latest Update (April 10, 2020)
 
-* Whether you are already in a group or not, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} so that we can figure out groups. 
-    * If you don't know anyone else in the Exoplanet Research Workshop and would like to form a group with your friends, try to recruit some friends to join! Send their email(s) and name(s) to [Quinn](mailto:qperian@ohs.stanford.edu){:target="_blank"}, and have them fill out the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"} with their name(s). We will get them set up with what they need. Otherwise, if you fill out [the above form](https://docs.google.com/forms/d/e/1FAIpQLSf549CDUdYCOVv7XSJY26KR9J83XYTHY-z7NHrbZQfv456u4g/viewform?usp=sf_link){:target="_blank"} and mark that you don't have a group, we will match you with a group.
+If you are in a group, please add your group information [here](https://docs.google.com/spreadsheets/d/1HP2-14ZMguOPumY4elrvI0DWXtu5y-hBAa-Vdq0m_h8/edit?usp=sharing){:target=_blank}. Otherwise, email [Quinn](mailto:perian@ohs.stanford.edu){:target="_blank"} so that he can make a group for you and add your group to the sheet. Detailed instructions for what to do before the 4/15 meeting are [here](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target=_blank}. 
 
 </div>
 
