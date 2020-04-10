@@ -7,7 +7,7 @@ title: Getting Started
 
 You can start out by using the EXOTIC program ([link to repository](https://github.com/blaserethan/EXOTIC){:target=_blank}) to run transits. First, you will have to download imaging software to view the images. Please see the recording and slides from the first meeting for more background.
 
-<div class="row">
+<div class="row" style="margin-bottom:1rem;">
 <div class="column light-box" markdown="1">
 
 ## Imaging Software
@@ -19,20 +19,28 @@ Download AstroImageJ and/or SAOImageDS9 at these links: [AstroImageJ](https://ww
 
 You can find text instructions for using AstroImageJ [here](https://docs.google.com/document/d/1wN5WhPDCFvLuUglR9uC-6S_c7tDQUbYdOmVoD4NUQ1c/edit) and video instructions [here](https://www.youtube.com/watch?v=-GGLPy71ryg&feature=youtu.be).
 
+You can also use [this Colab notebook](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"} to view fits files.
+
 </div>
 
 <div class="column light-box" markdown="1">
 
 ## Running Transits
 
-* Instructions for running transits:
-[Text instructions](https://docs.google.com/document/d/1pvc_VuJrGJ2RAnDcASRZ8zGNFV2TPjd8K1PaKbrhOBE/edit){:target="_blank"} |
-[Video](https://youtu.be/P6Fsf7sFWLc){:target="_blank"}
 * Qatar-1b transits and images:
 [Google Drive](https://drive.google.com/drive/folders/1b2eSuP8l-EtUeB9bej82VyYXXl50FP55?usp=sharing){:target="_blank"} |
 [Box](https://stanford.box.com/s/u3ngkm83c99u3c0j6e85xcuh7rwqe446){:target="_blank"}
-* [Transit assignment spreadsheet](https://docs.google.com/spreadsheets/d/1NqZnsZG8ColsPdLbLJyAmaTjcoK-oFQJBMtGhxdqyGs/edit#gid=0){:target="_blank"}
-* [Form to record transit results](https://docs.google.com/forms/d/e/1FAIpQLSe3PRVpEcandrBLA0dvziP2wYN_K-7Qlcco4GQDPCxbD3Cw5g/viewform?usp=sf_link){:target="_blank"}
+* Instructions for running transits:
+<!-- [Text instructions](https://docs.google.com/document/d/1pvc_VuJrGJ2RAnDcASRZ8zGNFV2TPjd8K1PaKbrhOBE/edit){:target="_blank"} | -->
+[Program for recording transit results](https://colab.research.google.com/drive/1SBKBfuQ5KXFg_gJLDJXDXSEHR48p04k3){:target="_blank"} | 
+[Video instructions](https://youtu.be/crLkc3TIDdY){:target="_blank"}
+* [Spreadsheet of transits that have been run](https://docs.google.com/spreadsheets/d/1oqnEk49SpIN2oui4Q4ZrY14h0MEhSxesMuuB3GuycD8/edit?usp=sharing){:target="_blank"}
+* [Doc for uploading lightcurve images](https://docs.google.com/document/d/1mpFZcO7s-mDykqqrw1Vvk0lCj4KK2TfK768FGKCTu8A/edit?usp=sharing){:target="_blank"}
 
 </div>
 </div>
+
+<!-- <div class="column light-box" markdown="1">
+<img src="/Qatar-1b-comps.png" alt="Qatar-1 b starfield">
+<center>Qatar-1 b Starfield with Comparison Stars</center>
+</div> -->
