@@ -11,7 +11,7 @@ Join us on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841
 
 Welcome to the main page for the Exoplanet Research Workshop! We're excited that you're participating in this project.
 
-If you have not signed up yet or would like to recruit your friends, here is the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSdYdnDFFS7MinZQbgGAxN3ULTTshf0Q3tvWsC1YjVQKXwWkeQ/viewform?usp=send_form){:target="_blank"}.
+Signups are closed; we will let you know when they reopen.
 
 For instructions on what to do for this project, see [Getting Started](/getting-started/).
 
