@@ -9,6 +9,11 @@ You can use this page to refer back to recordings and important information from
 
 <div class="light-box" markdown="1">
 
+**Week 3 (04/15/2020): Proceeding with Groups, Overview of Instrumentation, Classifying Transits**<br>
+[Recording](https://youtu.be/Dv3Qohk3Xjc){:target="_blank"} |
+[Slides](https://docs.google.com/presentation/d/1IyMO_ClHzxJPC2caoOVxgDxwnEDMoP9GkXdbzecKq3Y/edit?usp=sharing){:target="_blank"} |
+[Instructions](https://docs.google.com/document/d/1E-r3EYDe-3a8I-v_I6EdpZYx4SJX5guC2FZG0qtIDmc/edit?usp=sharing){:target="_blank"}
+
 **Week 2 (04/08/2020): Forming Groups, Discussing EXOTIC Experiences, Introducing New Tools**<br>
 [Slides](https://docs.google.com/presentation/d/1fcN9alNJefEe088UkIbOuU6Wnjoc6ANuVIlq1CrCwJ4/edit?usp=sharing){:target="_blank"} |
 [Instructions](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target="_blank"}
