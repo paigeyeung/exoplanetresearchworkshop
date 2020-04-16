@@ -21,9 +21,9 @@ We would recommend you to come to our [weekly meetings](https://stanford.zoom.us
 
 <div class="light-box" markdown="1">
 
-## Latest Update (April 10, 2020)
+## Latest Update (April 16, 2020)
 
-If you are in a group, please add your group information [here](https://docs.google.com/spreadsheets/d/1HP2-14ZMguOPumY4elrvI0DWXtu5y-hBAa-Vdq0m_h8/edit?usp=sharing){:target="_blank"}. Otherwise, email [Quinn](mailto:qperian@ohs.stanford.edu){:target="_blank"} so that he can make a group for you and add your group to the sheet. Detailed instructions for what to do before the 4/15 meeting are [here](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target="_blank"}. 
+See [here](https://docs.google.com/document/d/1E-r3EYDe-3a8I-v_I6EdpZYx4SJX5guC2FZG0qtIDmc/edit?usp=sharing){:target="_blank"} for tasks to prepare for the next meeting, and share your work with your point person. If you do not know who your point person is, see [here](https://docs.google.com/spreadsheets/d/1xPefvDAi55DWpAUcrfXnSRHcKYZHbV7hxZGFvCJKXvA/edit?usp=sharing){target="_blank}.
 
 </div>
 
