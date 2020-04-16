@@ -23,7 +23,7 @@ We would recommend you to come to our [weekly meetings](https://stanford.zoom.us
 
 ## Latest Update (April 16, 2020)
 
-See [here](https://docs.google.com/document/d/1E-r3EYDe-3a8I-v_I6EdpZYx4SJX5guC2FZG0qtIDmc/edit?usp=sharing){:target="_blank"} for tasks to prepare for the next meeting, and share your work with your point person. If you do not know who your point person is, see [here](https://docs.google.com/spreadsheets/d/1xPefvDAi55DWpAUcrfXnSRHcKYZHbV7hxZGFvCJKXvA/edit?usp=sharing){target="_blank"}.
+See [here](https://docs.google.com/document/d/1E-r3EYDe-3a8I-v_I6EdpZYx4SJX5guC2FZG0qtIDmc/edit?usp=sharing){:target="_blank"} for tasks to prepare for the next meeting, and share your work with your point person. If you do not know who your point person is, see [here](https://docs.google.com/spreadsheets/d/1xPefvDAi55DWpAUcrfXnSRHcKYZHbV7hxZGFvCJKXvA/edit?usp=sharing){:target="_blank"}.
 
 </div>
 
