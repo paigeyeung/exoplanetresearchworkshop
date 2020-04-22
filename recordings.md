@@ -3,6 +3,8 @@ layout: default
 title: Meeting Recordings
 ---
 
+<div class="page-display" markdown="1">
+
 # Recordings
 
 You can use this page to refer back to recordings and important information from our meetings.
@@ -22,5 +24,7 @@ You can use this page to refer back to recordings and important information from
 [Recording](https://www.youtube.com/watch?v=WnOaErRsxjs&feature=youtu.be){:target="_blank"} |
 [Slides](https://docs.google.com/presentation/d/1uk-0tc5WFz__pGBo8ZcAizhvzdP5trFC_slExausGRk/edit#slide=id.p){:target="_blank"} |
 [Instructions](https://docs.google.com/document/d/1pvc_VuJrGJ2RAnDcASRZ8zGNFV2TPjd8K1PaKbrhOBE/edit){:target="_blank"}
+
+</div>
 
 </div>

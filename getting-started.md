@@ -3,12 +3,20 @@ layout: default
 title: Getting Started
 ---
 
+<div class="page-display" markdown="1">
+
 # Getting Started
+
+If you are just getting started, we would recommend that you watch the [first meeting recording](https://www.youtube.com/watch?v=WnOaErRsxjs&feature=youtu.be){:target="_blank"}.
 
 You can start out by using the EXOTIC program ([link to repository](https://github.com/blaserethan/EXOTIC){:target=_blank}) to run transits. First, you will have to download imaging software to view the images. Please see the recording and slides from the first meeting for more background.
 
+</div>
+
+<div class="page-display-light" markdown="1">
+
 <div class="row" style="margin-bottom:1rem;">
-<div class="column light-box" markdown="1">
+<div class="column" markdown="1">
 
 ## Imaging Software
 
@@ -23,7 +31,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
 
 </div>
 
-<div class="column light-box" markdown="1">
+<div class="column" markdown="1">
 
 ## Running Transits
 
@@ -41,6 +49,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
     * [Program for viewing fits files](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"}
     * [Alternative option: DS9 (fewer features)](https://youtu.be/3aDeZfzlpl4){:target="_blank"}
 
+</div>
 </div>
 </div>
 
