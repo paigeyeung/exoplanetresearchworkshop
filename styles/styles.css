@@ -41,8 +41,9 @@
 		display: flex;
 	}
 	.column {
-		flex: 50%;
-		/* padding: 2%; */
+		flex: 46%;
+		padding: 2%;
+		margin:auto;
 	}
 }
 
@@ -82,7 +83,7 @@
 	width: 70%;
 	align-items: center;
 	overflow: scroll;
-	background-color: rgba(33, 33, 33, 0.5);
+	background-color: rgba(33, 33, 33, 0.8);
 	color: white;
 	margin: 0% 11% 0% 11%;
 	padding: 1% 4%;
@@ -127,13 +128,16 @@ h1 {
 
 h2 {
 	font-size: 1.4rem;
+	border-bottom: 5px solid rgb(131,195,255);
+	width: fit-content;
+	margin-top: 1rem;
 }
 
 a {
 	color: #fff;
 	text-decoration: none;
 	transition: color 0.25s ease-in;
-	border-bottom: 0.01rem solid rgb(131,195,255);
+	border-bottom: 1px solid rgb(131,195,255);
 }
 
 .light-box a {
