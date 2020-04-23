@@ -9,9 +9,13 @@
 	.row {
 		display: inline;
 	}
+
+	#contact .column {
+		text-align: center;
+	}
+
 	.column {
 		width: 100%;
-		text-align: center;
 		padding: 2%;
 	}
 	.light-box {
