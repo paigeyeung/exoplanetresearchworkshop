@@ -16,7 +16,6 @@
 
 	.column {
 		width: 100%;
-		padding: 2%;
 	}
 	.light-box {
 		margin-bottom: 1rem;
@@ -26,7 +25,6 @@
 @media only screen and (max-width: 900px) {
 	.column {
 		width: 100%;
-		padding: 2%;
 	}
 	.light-box .column {
 		display: inline-block;
