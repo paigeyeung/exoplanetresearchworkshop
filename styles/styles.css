@@ -89,6 +89,12 @@
 	padding: 1% 4%;
 }
 
+footer p, footer a {
+	text-align: center;
+	color: rgb(255,255,255);
+	opacity: 0.8;
+}
+
 .page-display-light {
 	display: block;
 	width: 70%;
