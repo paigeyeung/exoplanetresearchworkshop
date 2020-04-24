@@ -9,7 +9,9 @@ title: Contact Us
 
 You can email any of us (our emails are listed below) or ask questions on our [Slack workspace](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ). <!--Invite expires May 1--> 
 
-<div class="light-box" id="contact">
+</div>
+
+<div class="page-display-light" id="contact">
 <div class="row">
     <div class="column">
         <strong>Quinn Perian</strong><br><a href="mailto:qperian@ohs.stanford.edu">qperian@ohs.stanford.edu</a><br>
@@ -22,7 +24,7 @@ You can email any of us (our emails are listed below) or ask questions on our [S
 </div>
 
 
-<div class="row" style="margin-top:1rem">
+<div class="row" style="margin-top:0.5rem">
     <div class="column">
         <strong>Paige Yeung</strong><br><a href="mailto:paige.yeung@gmail.com">paige.yeung@gmail.com</a><br>
         (AIJ/DS9 on Catalina, website updates, general questions)
@@ -34,7 +36,7 @@ You can email any of us (our emails are listed below) or ask questions on our [S
 </div>
 
 
-<div class="row" style="margin-top:1rem">
+<div class="row" style="margin-top:0.5rem">
     <div class="column">
         <strong>Peyton Robertson</strong><br><a href="mailto:peytonwrobertson@gmail.com">peytonwrobertson@gmail.com</a><br>
         (general questions)
@@ -44,8 +46,6 @@ You can email any of us (our emails are listed below) or ask questions on our [S
         (especially for accessing the files if Gdrive misbehaves)
     </div>
 </div>
-</div>
-
 </div>
 
 <!-- <form name="contact" method="post" data-netlify="true">
