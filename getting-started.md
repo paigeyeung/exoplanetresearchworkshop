@@ -7,9 +7,9 @@ title: Getting Started
 
 # Getting Started
 
-If you are just getting started, we would recommend that you watch the [first meeting recording](https://www.youtube.com/watch?v=WnOaErRsxjs&feature=youtu.be){:target="_blank"}.
+If you are just getting started, we recommend you to watch the [first meeting recording](https://www.youtube.com/watch?v=WnOaErRsxjs&feature=youtu.be){:target="_blank"}. All the recordings and slides are posted [here](/meetings/) as a resource.
 
-You can start out by using the EXOTIC program ([link to repository](https://github.com/blaserethan/EXOTIC){:target=_blank}) to run transits. First, you will have to download imaging software to view the images. Please see the recording and slides from the first meeting for more background.
+To get set up, you can start off by downloading imaging software to view the images and using the EXOTIC program ([link to repository](https://github.com/blaserethan/EXOTIC){:target=_blank}) to run transits. More resources are below for your reference.
 
 </div>
 
