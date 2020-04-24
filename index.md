@@ -16,7 +16,7 @@ The document of tasks from the week 4 meeting is [here](https://docs.google.com/
 
 <div class="column" markdown="1">
 
-![](/transit-transparent.png)
+![](/transit.jpg)
 
 </div>
 
