@@ -1,3 +1,3 @@
-# exoplanet-research-site
+# Exoplanet Research Workshop
 
-website for [Exoplanet Research Workshop](https://exoplanetresearch.netlify.com)
+Website for [Exoplanet Research Workshop](https://exoplanetresearch.netlify.app)
