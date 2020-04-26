@@ -1,5 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+---
+---
+
+$accent-color: rgb(131,195,255);
+$font-stack: "Libre Franklin", system-ui, sans-serif;
+
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
 @media only screen and (max-width: 600px) {
@@ -113,7 +117,7 @@ footer p, footer a {
 }
 
 body {
-    font-family: "Libre Franklin", system-ui, sans-serif;
+    font-family: $font-stack;
     color: #fff;
 	background-color: #333;
 	background-image: url("/bg.png/"); /* linear-gradient(black,#44c); */
@@ -136,7 +140,7 @@ h1 {
 
 h2 {
 	font-size: 1.4rem;
-	border-bottom: 5px solid rgb(131,195,255);
+	border-bottom: 5px solid $accent-color;
 	width: fit-content;
 	margin-top: 1rem;
 }
@@ -145,7 +149,7 @@ a {
 	color: #fff;
 	text-decoration: none;
 	transition: color 0.25s ease-in;
-	border-bottom: 1px solid rgb(131,195,255);
+	border-bottom: 1px solid $accent-color;
 }
 
 .light-box a {
@@ -153,12 +157,11 @@ a {
 }
 
 a:hover, .light-box a:hover, #nav a:active {
-	color: rgb(131,195,255);
+	color: $accent-color;
 }
 
 .nav {
 	position: relative;
-	/* background-color: #000; */
 	padding: 0;
 	margin-top: 2%;
 	padding-bottom: 2%;
@@ -174,43 +177,8 @@ a:hover, .light-box a:hover, #nav a:active {
 	margin-right: 0.8rem;
 }
 
-/* input[type=text], input[type=email], select, textarea {
-	width: 100%;
-	padding: 12px;
-	border: 1px solid #ccc; 
-	border-radius: 4px;
-	box-sizing: border-box;
-	margin-top: 0.5rem;
-	margin-bottom: 1rem;
-	resize: vertical;
-} */
-
 ul li {
 	margin-left: -1rem;
-}
-  
-/* input[type=submit] {
-	background-color: rgb(71, 166, 255);
-	color: #fff;
-	padding: 0.5rem 1.5rem;
-	border: none;
-	border-radius: 1rem;
-	cursor: pointer;
-	text-align: right;
-	font-family: 'Open Sans',system-ui,sans-serif;
-	font-weight: bold;
-} */
-
-.light-box {
-	display: inline-block;
-	background-size: contain;
-	width: 92%;
-	overflow: scroll;
-	background-color: white;
-	color: black;
-	/* box-shadow: 0.25rem 0.25rem 2rem 0rem rgba(0, 0, 0, 0.15); */
-	border-radius: 0rem;
-	padding: 4%;
 }
 
 img {
