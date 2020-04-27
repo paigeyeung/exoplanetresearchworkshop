@@ -1,5 +1,31 @@
-url: https://exoplanetresearch.netlify.com
+url: https://exoplanetresearch.netlify.app
 title: "Exoplanet Research Workshop"
 permalink: /:title/
 include:
   - _redirects
+
+contacts:
+  - name: Quinn Perian
+    email: qperian@ohs.stanford.edu
+    zoom_url: https://stanford.zoom.us/my/quinnperian
+    description: (EXOTIC, Python, AIJ, or the project in general)
+  - name: Paige Yeung
+    email: paige.yeung@gmail.com
+    zoom_url: https://stanford.zoom.us/my/pyeung
+    description: (AIJ/DS9 on Catalina, website updates, general questions)
+  - name: Peyton Robertson
+    email: peytonwrobertson@gmail.com
+    zoom_url: https://stanford.zoom.us/s/94826555873
+    description: (general questions)
+  - name: Ryan Caputo
+    email: ryanjc314@gmail.com
+    zoom_url: https://stanford.zoom.us/j/2497699414
+    description: (general questions)
+  - name: Elliott Chalcraft
+    email: elliottq@ohs.stanford.edu
+    zoom_url: 
+    description: (AIJ for Mac, EXOTIC offline, or anything else!)
+  - name: Kalee Tock
+    email: kaleeg@stanford.edu
+    zoom_url: https://stanford.zoom.us/j/2940180841
+    description: (especially for accessing the files if Google Drive misbehaves)
