@@ -28,8 +28,6 @@ The Exoplanet Research Workshop meets on Wednesdays at 1pm PDT in [Zoom](https:/
 
 If you are just getting started and looking for instructions on what to do for this project, see [Getting Started](/getting-started/).
 
-<!-- We would recommend you to come to our [weekly meetings](https://stanford.zoom.us/j/2940180841){:target="_blank"} on Wednesdays at 1pm Pacific Time. -->
-
 We've posted our [meeting recordings and slides](/meetings/) in case you missed a meeting or just want to review the recording.
 
 **Questions?** Join the [Slack workspace](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or [contact us](/contact/).
@@ -39,8 +37,8 @@ We've posted our [meeting recordings and slides](/meetings/) in case you missed 
 </div>
 
 ## Leaderboard
-See below, or check [here](https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/){:target="_blank"} for the leaderboard. If you would like to opt out of the leaderboard, email [Elliott](mailto:elliottq@ohs.stanford.edu){:target="_blank"}.
+See below, or check [here](https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing){:target="_blank"} for the leaderboard. If you would like to opt out of the leaderboard, email [Elliott](mailto:elliottq@ohs.stanford.edu){:target="_blank"}.
 
-<center><iframe width='100%' height='500' frameborder='0' scrolling='no' src='https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/'>&range=A1:G33&widget=false&chrome=false</iframe></center>
+<center><iframe width='100%' height='500' frameborder='0' scrolling='no' src='https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing'>&range=A1:B54&widget=false&chrome=false</iframe></center>
 
 </div>
