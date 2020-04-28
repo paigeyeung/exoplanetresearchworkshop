@@ -14,9 +14,6 @@ You can use this page to refer back to recordings and important information from
 <div class="page-display-light" markdown="1">
 
 ## Recordings
-<!-- </div>
-
-<div class="page-display-light" markdown="1"> -->
 
 **Week 4 (04/22/2020)**<br>
 [Recording](https://www.youtube.com/watch?v=8Rcvww3l4Xw&feature=youtu.be){:target="_blank"} |
