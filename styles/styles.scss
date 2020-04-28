@@ -3,6 +3,7 @@
 
 $accent-color: rgb(131,195,255);
 $font-stack: "Libre Franklin", system-ui, sans-serif;
+$background-path: "/exoplanets.jpg";
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
@@ -68,7 +69,7 @@ $font-stack: "Libre Franklin", system-ui, sans-serif;
 }
 
 .header {
-	background: url("/exoplanets.jpg");
+	background: url($background-path);
 	background-size: cover;
 	display: block;
 	width: 70%;
