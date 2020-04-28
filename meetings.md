@@ -19,7 +19,7 @@ You can use this page to refer back to recordings and important information from
 <div class="page-display-light" markdown="1"> -->
 
 **Week 4 (04/22/2020)**<br>
-Recording |
+[Recording](https://www.youtube.com/watch?v=8Rcvww3l4Xw&feature=youtu.be){:target="_blank"} |
 [Slides](https://docs.google.com/presentation/d/1TR5zDkGk4F0TUMnkbTr-Pw1eKtQY5gaoElxwYrIvNFc/edit?usp=sharing){:target="_blank"} |
 [Tasks/Instructions](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}
 
