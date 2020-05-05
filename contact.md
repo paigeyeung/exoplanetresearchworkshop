@@ -7,7 +7,7 @@ title: Contact Us
 
 # Contact Us
 
-You can email any of us (our emails are listed below) or ask questions on our [Slack workspace](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ). <!--Invite expires May 1--> 
+You can email any of us (our emails are listed below) or ask questions on our [Slack workspace](https://join.slack.com/t/exoplanet-research/shared_invite/zt-e3pnufle-yBWk8iC35o7aVbdx7SQXOg).
 
 </div>
 
