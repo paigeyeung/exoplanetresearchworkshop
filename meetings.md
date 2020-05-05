@@ -15,6 +15,9 @@ You can use this page to refer back to recordings and important information from
 
 ## Recordings
 
+**Week 5 (04/29/2020)**
+[Slides](https://docs.google.com/presentation/d/16xA4ZfCgO9hUWngfYZLMrlqkrbz9SaynDN1-mTfHhCo/edit?usp=sharing)
+
 **Week 4 (04/22/2020)**<br>
 [Recording](https://www.youtube.com/watch?v=8Rcvww3l4Xw&feature=youtu.be){:target="_blank"} |
 [Slides](https://docs.google.com/presentation/d/1TR5zDkGk4F0TUMnkbTr-Pw1eKtQY5gaoElxwYrIvNFc/edit?usp=sharing){:target="_blank"} |
