@@ -4,14 +4,14 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (May 5, 2020)
+## Latest Update (May 6, 2020)
 
 
 The document of tasks from the week 4 meeting is [here](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}.
 
 If your group is writing a paper, feel free to get started on it whenever you are ready, and reach out to your point person for any guidance you need.
 
-We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups. If you need help getting set up, please let us know.
+We know that it is a busy time of year for many of you, so the large group meetings for 5/13 and 5/20 will be optional. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups. If you need help getting set up, please let us know.
 
 </div>
 
@@ -21,7 +21,7 @@ We encourage you to schedule small group meetings to discuss the project and wor
 
 <div class="column" markdown="1">
 
-![](/transit.jpg)
+![](/assets/transit.jpg)
 
 </div>
 
