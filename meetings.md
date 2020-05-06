@@ -13,7 +13,10 @@ You can use this page to refer back to recordings and important information from
 
 <div class="page-display-light" markdown="1">
 
-## Recordings
+## Recordings, Slides, and Documents
+
+**Week 6 (05/06/2020)**<br>
+[Slides](https://docs.google.com/presentation/d/1awG3jgBT4AZ7g8q1tcr0UdZzT8J7uOww5KMNPj96klw/edit?usp=sharing){:target="_blank"}
 
 **Week 5 (04/29/2020)**<br>
 [Slides](https://docs.google.com/presentation/d/16xA4ZfCgO9hUWngfYZLMrlqkrbz9SaynDN1-mTfHhCo/edit?usp=sharing){:target="_blank"}
