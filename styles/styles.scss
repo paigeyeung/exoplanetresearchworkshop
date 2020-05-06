@@ -3,7 +3,8 @@
 
 $accent-color: rgb(131,195,255);
 $font-stack: "Libre Franklin", system-ui, sans-serif;
-$background-path: "/exoplanets.jpg";
+$background-path: "/assets/bg.png";
+$header-background-path: "/assets/exoplanets.jpg";
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
@@ -69,7 +70,7 @@ $background-path: "/exoplanets.jpg";
 }
 
 .header {
-	background: url($background-path);
+	background: url($header-background-path);
 	background-size: cover;
 	display: block;
 	width: 70%;
@@ -117,7 +118,7 @@ body {
     font-family: $font-stack;
     color: #fff;
 	background-color: #333;
-	background-image: url("/bg.png/"); /* linear-gradient(black,#44c); */
+	background-image: url($background-path);
 	background-attachment:fixed;
 	line-height: 1.7rem;
 	margin:0;

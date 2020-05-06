@@ -49,7 +49,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
     * [Program for viewing fits files](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"}
     * [Alternative option: DS9 (fewer features)](https://youtu.be/3aDeZfzlpl4){:target="_blank"} -->
 
-![](/Qatar-1b-comps.png/)
+![](/assets/Qatar-1b-comps.png/)
 
 </div>
 </div>
@@ -58,7 +58,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
 <div class="row" style="margin-bottom:1rem;">
 <div class="column" markdown="1">
 
-![](/transiting-exoplanet.jpg)
+![](/assets/transiting-exoplanet.jpg)
 
 </div>
 
