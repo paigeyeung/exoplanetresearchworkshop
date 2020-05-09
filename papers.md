@@ -31,7 +31,7 @@ you will be publishing.
 
 ## Anatomy of the Paper
 
-Your paper will have the following sections: **Abstract, Introduction, Instruments Used, Light Curves, Data Reduction, Results, Conclusion, Acknowledgments,** and **References**. For more details on the structure, see [**here**](https://docs.google.com/document/d/1pGp_VwcEvK5Trl8GANiz19qkd51OQOAOjb0idJ-0JME/edit?usp=sharing).
+You might choose to structure your paper with the following sections: **Abstract, Introduction, Instruments Used, Light Curves, Data Reduction, Results, Conclusion, Acknowledgments,** and **References**. For a more comprehensive guide to the paper structure, see [**here**](https://docs.google.com/document/d/1pGp_VwcEvK5Trl8GANiz19qkd51OQOAOjb0idJ-0JME/edit?usp=sharing).
 
 </div>
 <div class="column" markdown="1">
