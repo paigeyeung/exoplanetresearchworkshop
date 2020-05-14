@@ -33,22 +33,6 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
 
 <div class="column" markdown="1">
 
-<!-- ## Running Transits
-
-* Qatar-1b transits and images:
-    * [Google Drive](https://drive.google.com/drive/folders/1b2eSuP8l-EtUeB9bej82VyYXXl50FP55?usp=sharing){:target="_blank"}
-    * [Box](https://stanford.box.com/s/u3ngkm83c99u3c0j6e85xcuh7rwqe446){:target="_blank"}
-* Running transits
-    * [Program for running transits](https://colab.research.google.com/drive/1wrjyfnZJSJNi-1VL5Pr6PWsfysNFw7e-#scrollTo=ccmdu8SO42yx){:target="_blank"}
-    * [Program for recording transit results](https://colab.research.google.com/drive/1SBKBfuQ5KXFg_gJLDJXDXSEHR48p04k3){:target="_blank"}
-    * [Video instructions](https://youtu.be/crLkc3TIDdY){:target="_blank"}
-* [Spreadsheet of transits that have been run](https://docs.google.com/spreadsheets/d/1oqnEk49SpIN2oui4Q4ZrY14h0MEhSxesMuuB3GuycD8/edit?usp=sharing){:target="_blank"}
-* [Doc for uploading lightcurve images](https://docs.google.com/document/d/1mpFZcO7s-mDykqqrw1Vvk0lCj4KK2TfK768FGKCTu8A/edit?usp=sharing){:target="_blank"}
-* Fixing bad transits
-    * [Instructions for fixing bad transits](https://youtu.be/HQAulcrkQok){:target="_blank"}
-    * [Program for viewing fits files](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"}
-    * [Alternative option: DS9 (fewer features)](https://youtu.be/3aDeZfzlpl4){:target="_blank"} -->
-
 ![](/assets/Qatar-1b-comps.png/)
 
 </div>
