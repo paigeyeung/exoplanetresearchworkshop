@@ -15,6 +15,12 @@ You can use this page to refer back to recordings and important information from
 
 ## Recordings, Slides, and Documents
 
+**Week 8 (05/20/2020)**<br>
+Optional drop-in meeting for questions/troubleshooting. Will not be recorded.
+
+**Week 7 (05/13/2020)**<br>
+Optional drop-in meeting for questions/troubleshooting. Not recorded.
+
 **Week 6 (05/06/2020)**<br>
 [Slides](https://docs.google.com/presentation/d/1awG3jgBT4AZ7g8q1tcr0UdZzT8J7uOww5KMNPj96klw/edit?usp=sharing){:target="_blank"}
 
