@@ -4,11 +4,11 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (May 25, 2020)
+## Latest Update (May 28, 2020)
 
-We know that it is a busy time of year for many of you, so normal meetings will resume on **5/27**. Good luck on exams and any other assignments/commitments you may have during this time!
+By **June 5th**, please let your point person know if your group intends to write a paper, or we'll give your transits to another group that is writing one. More information on writing papers is [here](/papers/).
 
-If you would still like to work on tasks, the document of tasks for all groups is [here](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}. If your group is writing a paper, feel free to get started on it whenever you are ready, and reach out to your point person for any guidance you need. More information on writing papers is [here](/papers/).
+The document of tasks for all groups is [here](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}. If your group is writing a paper, feel free to get started on it whenever you are ready, and reach out to your point person for any guidance you need. 
 
 We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups. If you need help getting set up, please let us know.
 
