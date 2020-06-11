@@ -11,6 +11,8 @@ $header-background-path: "/assets/exoplanets.jpg";
 @media only screen and (max-width: 600px) {
 	.page-display {
 		width: 100%;
+		margin: 0; 
+		padding: 0;
 	}
 	.page-display-light {
 		width: 100%;
