@@ -4,13 +4,13 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (May 28, 2020)
+## Latest Update (June 13, 2020)
 
-By **June 5th**, please let your point person know if your group intends to write a paper, or we'll give your transits to another group that is writing one. More information on writing papers is [here](/papers/).
+For groups that are writing papers, please continue writing (more guidelines are [here](/papers/)). We're excited to see what you produce!
 
-The document of tasks for all groups is [here](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}. If your group is writing a paper, feel free to get started on it whenever you are ready, and reach out to your point person for any guidance you need. 
+If your group is not writing a paper, please continue running your transits on different comparison stars. We'll give your transits to a paper writing group, and you will be acknowledged in their paper. For more details, see the [document of tasks for all groups](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}.
 
-We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups. If you need help getting set up, please let us know.
+Please feel free to reach out to your point person for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
 </div>
 
