@@ -7,6 +7,8 @@ title: Meetings
 
 # Meetings
 
+**Note (posted June 13, 2020):** Our past few meetings have been drop-in meetings in case you or your group needed help, and they were not recorded. All the relevant information you need to get going with your project should be either directly entered on this website or linked on this website.
+
 You can use this page to refer back to recordings and important information from our meetings.
 
 </div>
@@ -14,12 +16,6 @@ You can use this page to refer back to recordings and important information from
 <div class="page-display-light" markdown="1">
 
 ## Recordings, Slides, and Documents
-
-**Week 8 (05/20/2020)**<br>
-Optional drop-in meeting for questions/troubleshooting. Will not be recorded.
-
-**Week 7 (05/13/2020)**<br>
-Optional drop-in meeting for questions/troubleshooting. Not recorded.
 
 **Week 6 (05/06/2020)**<br>
 [Slides](https://docs.google.com/presentation/d/1awG3jgBT4AZ7g8q1tcr0UdZzT8J7uOww5KMNPj96klw/edit?usp=sharing){:target="_blank"}
