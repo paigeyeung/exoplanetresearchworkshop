@@ -4,7 +4,9 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (June 13, 2020)
+## Latest Update (July 9, 2020)
+
+EXOTIC has been updated. Please see [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"} for an updated transit analyzer.
 
 For groups that are writing papers, please continue writing (more guidelines are [here](/papers/)). We're excited to see what you produce!
 
