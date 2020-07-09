@@ -54,7 +54,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
     * [Google Drive](https://drive.google.com/drive/folders/1b2eSuP8l-EtUeB9bej82VyYXXl50FP55?usp=sharing){:target="_blank"}
     * [Box](https://stanford.box.com/s/u3ngkm83c99u3c0j6e85xcuh7rwqe446){:target="_blank"}
 * Running transits
-    * [Transit analyzer](https://colab.research.google.com/drive/1wrjyfnZJSJNi-1VL5Pr6PWsfysNFw7e-){:target="_blank"}
+    * [Transit analyzer [updated July 9, 2020]](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}
     * [Program for recording transit results](https://colab.research.google.com/drive/1SBKBfuQ5KXFg_gJLDJXDXSEHR48p04k3){:target="_blank"}
     * [Program for viewing transits](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"}
     * [Video instructions](https://youtu.be/crLkc3TIDdY){:target="_blank"}
