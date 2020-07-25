@@ -30,9 +30,9 @@ Please feel free to reach out to your point person for any guidance you need. We
 
 ## The Workshop
 
-The Exoplanet Research Workshop meets on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"}. Signups are closed.
+The Exoplanet Research Workshop is a group-led project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of (primarily) high school students. Previously, we met on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"}. Signups are closed, but stay tuned for a new iteration of the workshop.
 
-If you are just getting started and looking for instructions on what to do for this project, see [Getting Started](/getting-started/).
+For those who are just getting started and are looking for instructions, see [Getting Started](/getting-started/).
 
 We've posted our [meeting recordings and slides](/meetings/) in case you missed a meeting or just want to review the recording.
 
