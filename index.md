@@ -6,13 +6,11 @@ title: Home
 
 ## Latest Update (July 25, 2020)
 
-A new version of EXOTIC was released a couple days ago. Because the new EXOTIC platesolves for you, downloading astrometry.net is no longer required. You can find the new Colab notebook [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}.
+A new version of EXOTIC was released a couple days ago. Because the new EXOTIC platesolves for you, downloading Astrometry.net is no longer required, so the code runs a lot faster. You can find the new Colab notebook [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}.
 
-The notebook for the previous update is [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}. It clones an old version of EXOTIC, so you can still run it if you'd like, but it takes a lot longer to run than the new Colab.
+The notebook for the previous update is [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}. It clones an old version of EXOTIC, so you can still run it if you'd like, but keep in mind that it takes much longer to run than the new Colab.
 
-For groups that are writing papers, please continue writing (more guidelines are [here](/papers/)). We're excited to see what you produce!
-
-If your group is not writing a paper, please continue running your transits on different comparison stars. We'll give your transits to a paper writing group, and you will be acknowledged in their paper. For more details, see the [document of tasks for all groups](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}.
+For groups that are writing papers, the paper guidelines can be found [here](/papers/).
 
 Please feel free to reach out to your point person for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
