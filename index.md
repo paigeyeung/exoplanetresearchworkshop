@@ -4,9 +4,11 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (July 9, 2020)
+## Latest Update (July 25, 2020)
 
-EXOTIC has been updated. Please see [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"} for an updated transit analyzer.
+A new version of EXOTIC was released a couple days ago. Because the new EXOTIC platesolves for you, downloading astrometry.net is no longer required. You can find the new Colab notebook [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}.
+
+The notebook for the previous update is [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}. It clones an old version of EXOTIC, so you can still run it if you'd like, but it takes a lot longer to run than the new Colab.
 
 For groups that are writing papers, please continue writing (more guidelines are [here](/papers/)). We're excited to see what you produce!
 
