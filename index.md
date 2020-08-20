@@ -4,11 +4,11 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (July 25, 2020)
+## Latest Update (August 20, 2020)
 
-A new version of EXOTIC was released a couple days ago. Because the new EXOTIC platesolves for you, downloading Astrometry.net is no longer required, so the code runs a lot faster. You can find the new Colab notebook [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}.
+The Colab has been updated to reflect new EXOTIC updates. The notebook can be found [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}.
 
-The notebook for the previous update is [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}. It clones an old version of EXOTIC, so you can still run it if you'd like, but keep in mind that it takes much longer to run than the new Colab.
+The notebook for the old version of EXOTIC is [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}. It clones an old version of EXOTIC, so you can still run it if you'd like, but keep in mind that it takes much longer to run than the new Colab because it requires Astrometry.net to platesolve.
 
 For groups that are writing papers, the paper guidelines can be found [here](/papers/).
 
