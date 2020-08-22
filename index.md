@@ -4,11 +4,11 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (August 20, 2020)
+## Latest Update (August 22, 2020)
 
 The Colab has been updated to reflect new EXOTIC updates. The notebook can be found [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}.
 
-The notebook for the old version of EXOTIC is [here](https://colab.research.google.com/drive/15zXPTbcYrVTE2xwtq7kdTKHdPq2CKoOO?usp=sharing){:target="_blank"}. It clones an old version of EXOTIC, so you can still run it if you'd like, but keep in mind that it takes much longer to run than the new Colab because it requires Astrometry.net to platesolve.
+Since the output file format has changed, we have updated the [transit submission notebook](https://colab.research.google.com/drive/1C4n-FMeb9v675ScZnBa_dQZpzGlxMbBb?usp=sharing){:target="_blank"}.
 
 For groups that are writing papers, the paper guidelines can be found [here](/papers/).
 
