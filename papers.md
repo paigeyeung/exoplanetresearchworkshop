@@ -20,8 +20,7 @@ The following are papers your team should read if you are writing a paper. You c
 * **Instrumentation:** [MicroObservatory Net: A Network of Automated Remote Telescopes Dedicated to Educational Use](https://link.springer.com/epdf/10.1023/A:1016668526933?shared_access_token=AVqtxlUonur3ODVcIH76AospNOxuUNtyllpwxVxrbfDHew4OVeU1SHRgW8tfuvC4Bzcd5ItGjpVRgFi-KQ36WeBAnriIeORBolFOz4QClHqQYsUDPSCd_oQpL2PTCfDo8bFOSyTRPM9RkT0bgJlX_p0tJd7-kjcLmbgZAk0zL4M%3D){:target="_blank"}
 * **Astronomy with small telescopes:** [Utilizing Small Telescopes Operated by Citizen Scientists for Transiting Exoplanet Follow-up](https://ui.adsabs.harvard.edu/abs/2020PASP..132e4401Z/abstract){:target="_blank"}
 
-We encourage you to check out some of the papers in the [Journal of the American Association of Variable Star Observers (JAAVSO)](https://www.aavso.org/apps/jaavso/){:target="_blank"}, which is likely where
-you will be publishing.
+We encourage you to check out some of the papers in the [*Journal of the American Association of Variable Star Observers* (*JAAVSO*)](https://www.aavso.org/apps/jaavso/){:target="_blank"} or [*Astronomy Theory, Observations and Methods* (*ATOM*)](https://rtsre.org/index.php/atom). You will likely be publishing in one of the two aforementioned journals.
 
 ![](/assets/lit-review.gif){:style="max-width:500px;margin:auto;display:block"}
 
