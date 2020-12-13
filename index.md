@@ -50,7 +50,7 @@ Previously, we held our large group meetings on Wednesdays at 1pm PDT in [Zoom](
 
 ## Leaderboard
 
-We have transitioned to using the newer version of EXOTIC, and the Colab notebook we originally used to synchronize with the leaderboard does not work with this version. Here is a snapshot of the leaderboard from before the version was released. Thanks all for your participation!
+We have transitioned to using the newer version of EXOTIC, and the Colab notebook we originally used to synchronize with the leaderboard does not work with this version. Here is a snapshot of the top 20 from our leaderboard from before the version was released. Thanks all for your participation!
 
 ![](/assets/leaderboard.png){: style="max-width:200px;margin:auto;display:block;"}
 
