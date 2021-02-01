@@ -4,11 +4,11 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (January 31, 2021)
+## Latest Update (February 1, 2021)
 
 For groups that are writing papers, the paper guidelines can be found [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
 
-The notebook that is updated to reflect new updates as of 01/31 can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}. We are working on a new version of the transit submission notebook.
+The notebook that is updated to reflect new updates as of 02/01 can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}. (Note that if you get an error on the final cell, EXOTIC ran into an error and output files were not generated.) We are working on a new version of the transit submission notebook.
 
 <!-- You can clone an old version of [this repository](https://github.com/rzellem/exotic){:target="_blank"} using Git (tutorial [here](https://stackoverflow.com/questions/12256137/cloning-an-older-version-of-github-repo){:target="_blank"}, or feel free to message Paige for assistance). The [transit submission notebook](https://colab.research.google.com/drive/1C4n-FMeb9v675ScZnBa_dQZpzGlxMbBb?usp=sharing){:target="_blank"} for the 8/22 version of EXOTIC is here. -->
 
