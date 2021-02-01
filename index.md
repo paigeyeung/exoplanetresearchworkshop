@@ -4,13 +4,15 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (December 13, 2020)
+## Latest Update (January 31, 2021)
 
 For groups that are writing papers, the paper guidelines can be found [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
 
-The notebook that is updated to reflect new updates as of 8/22 can be found [here](https://colab.research.google.com/drive/1TYBNFgOCijvLEFO4qn_ECy-fv6d9RvC9){:target="_blank"}. You can clone an old version of [this repository](https://github.com/rzellem/exotic){:target="_blank"} using Git (tutorial [here](https://stackoverflow.com/questions/12256137/cloning-an-older-version-of-github-repo){:target="_blank"}, or feel free to message Paige for assistance). The [transit submission notebook](https://colab.research.google.com/drive/1C4n-FMeb9v675ScZnBa_dQZpzGlxMbBb?usp=sharing){:target="_blank"} for the 8/22 version of EXOTIC is here.
+The notebook that is updated to reflect new updates as of 01/31 can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}. We are working on a new version of the transit submission notebook.
 
-You can also try running EXOTIC locally or on this [Colab notebook](https://colab.research.google.com/drive/1W1vrgEp9_IjEN16WFxmopLDYvHeYfxpw){:target="_blank"} linked in the EXOTIC repository if you are still running transits or would like to rerun any transits you've run before. If you run the latest version of EXOTIC on your device, it should run much faster now.
+<!-- You can clone an old version of [this repository](https://github.com/rzellem/exotic){:target="_blank"} using Git (tutorial [here](https://stackoverflow.com/questions/12256137/cloning-an-older-version-of-github-repo){:target="_blank"}, or feel free to message Paige for assistance). The [transit submission notebook](https://colab.research.google.com/drive/1C4n-FMeb9v675ScZnBa_dQZpzGlxMbBb?usp=sharing){:target="_blank"} for the 8/22 version of EXOTIC is here. -->
+
+<!-- You can also try running EXOTIC locally or on this [Colab notebook](https://colab.research.google.com/drive/1W1vrgEp9_IjEN16WFxmopLDYvHeYfxpw){:target="_blank"} linked in the EXOTIC repository if you are still running transits or would like to rerun any transits you've run before. If you run the latest version of EXOTIC on your device, it should run much faster now. -->
 
 As always, please feel free to reach out to your point person for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
