@@ -13,19 +13,19 @@ contacts:
     email: paige.yeung@gmail.com
     zoom_url: https://stanford.zoom.us/my/pyeung
     topics: EXOTIC/Colab updates, anything on the website, AIJ/DS9 on Catalina, general questions
-  - name: Peyton Robertson
-    email: peytonwrobertson@gmail.com
-    zoom_url: https://stanford.zoom.us/s/94826555873
-    topics: general questions
-  - name: Ryan Caputo
-    email: ryanjc314@gmail.com
-    zoom_url: https://stanford.zoom.us/j/2497699414
-    topics: general questions
-  - name: Elliott Chalcraft
-    email: elliottq@ohs.stanford.edu
-    zoom_url: ""
-    topics: AIJ for Mac, EXOTIC offline, or anything else!
+  # - name: Elliott Chalcraft
+  #   email: elliottq@ohs.stanford.edu
+  #   zoom_url: ""
+  #   topics: AIJ for Mac, EXOTIC offline, or anything else!
   - name: Kalee Tock
     email: kaleeg@stanford.edu
     zoom_url: https://stanford.zoom.us/j/2940180841
     topics: accessing the files if Google Drive misbehaves, general questions
+
+contacts2020:
+  - name: Ryan Caputo
+  - name: Elliott Chalcraft
+  - name: Quinn Perian
+  - name: Peyton Robertson
+  - name: Paige Yeung
+  - name: Kalee Tock

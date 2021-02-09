@@ -20,6 +20,8 @@ To get set up, you can start off by downloading imaging software to view the ima
 
 ## Imaging Software
 
+*Edit (02/09/21): The new EXOTIC transit analyzer notebook now displays the fits files within Colab, but becoming familiar with imaging software should still be helpful for those who are just starting out with exoplanet research.*
+
 We would recommend using AstroImageJ, but feel free to use another astronomical imaging software. AIJ is tricky with Catalina, so if you are running Catalina, SAOImageDS9 may work better.
 
 The links to download AstroImageJ and SAOImageDS9 are [here](https://www.astro.louisville.edu/software/astroimagej/) and [here](http://ds9.si.edu/site/Download.html), respectively. [Contact us](/contact/) if you run into any download issues.
@@ -54,7 +56,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
     * [Box](https://stanford.box.com/s/u3ngkm83c99u3c0j6e85xcuh7rwqe446){:target="_blank"}
 * Running transits
     * [Transit analyzer](https://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"}
-    * [Program for recording transit results](https://colab.research.google.com/drive/1SBKBfuQ5KXFg_gJLDJXDXSEHR48p04k3){:target="_blank"}
+    * [Program for recording transit results](https://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}
     * [Program for viewing transits](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"}
     * [Video instructions](https://youtu.be/crLkc3TIDdY){:target="_blank"}
 * [Master Qatar-1 b transit data](https://docs.google.com/spreadsheets/d/1Dxzc-wokpxACASY-wdQwIe3bwgWNYTvwQJmjC5c3YWs/edit){:target="_blank"}

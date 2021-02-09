@@ -4,11 +4,11 @@ title: Home
 ---
 <div class="page-display-light" markdown="1">
 
-## Latest Update (February 1, 2021)
+## Latest Update (February 9, 2021)
 
-For groups that are writing papers, the paper guidelines can be found [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
+We've created a new working version of the transit submission notebook! You can find it [here](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. The transit analyzer notebook that is updated to reflect new updates can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}.
 
-The notebook that is updated to reflect new updates as of 02/01 can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}. (Note that if you get an error on the final cell, EXOTIC ran into an error and output files were not generated.) We are working on a new version of the transit submission notebook.
+For groups that are writing papers, we've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
 
 <!-- You can clone an old version of [this repository](https://github.com/rzellem/exotic){:target="_blank"} using Git (tutorial [here](https://stackoverflow.com/questions/12256137/cloning-an-older-version-of-github-repo){:target="_blank"}, or feel free to message Paige for assistance). The [transit submission notebook](https://colab.research.google.com/drive/1C4n-FMeb9v675ScZnBa_dQZpzGlxMbBb?usp=sharing){:target="_blank"} for the 8/22 version of EXOTIC is here. -->
 
@@ -28,7 +28,7 @@ As always, please feel free to reach out to your point person for any guidance y
 
 The Exoplanet Research Workshop is a group-led project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of (primarily) high school students. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initative.
 
-We've shared our workshop experiences and citizen science research with the larger space science, citizen science, and science education community at the [Global Hands-On Universe Conference](https://www.facebook.com/watch/live/?v=949654105549090&t=1720){:target="_blank"} and will be presenting at the [AGU Fall Meeting](https://www.agu.org/Fall-Meeting). We will later be conducting a meta-study on this workshop and our cumulative findings.
+We've shared our workshop experiences and citizen science research with the larger space science, citizen science, and science education community at conferences including the [Global Hands-On Universe Conference](https://handsonuniverse.org/ghou2020/){:target="_blank"} (recording [here](https://www.facebook.com/watch/live/?v=949654105549090&t=1720){:target="_blank"}) and the [AGU Fall Meeting](https://www.agu.org/Fall-Meeting). We will later be conducting a meta-study on this workshop and our cumulative findings.
 
 </div>
 
@@ -40,11 +40,15 @@ We've shared our workshop experiences and citizen science research with the larg
 
 </div>
 
+<!-- </div>
+
+<div class="page-display-light" markdown="1"> -->
+
+## Getting Involved
+
 For those who are just getting started with contributing to Exoplanet Watch, we've posted resources in [Getting Started](/getting-started/). We've posted several of our [meeting recordings and slides](/meetings/) in case you would like to review them.
 
 Previously, we held our large group meetings on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} but later switched over to smaller group meetings for individual teams to focus on their research. Signups are closed, but stay tuned for a new iteration of the workshop.
-
-**Questions?** Feel free to join the [Slack workspace](https://join.slack.com/t/exoplanetrese-nug2480/shared_invite/zt-d63jj8jl-WFWgC0P9mOBvDLbJEvo5EQ){:target="_blank"} or [contact us](/contact/).
 
 </div>
 

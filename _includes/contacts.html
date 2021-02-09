@@ -4,12 +4,21 @@
             <strong>{{ contact.name }}</strong><br>
             <a href="mailto:{{ contact.email }}">{{ contact.email }}</a><br>
 
-
-            {% if contact.zoom_url != "" %}
+            <!-- {% if contact.zoom_url != "" %}
                 <a href="{{ contact.zoom_url }}">Zoom</a><br>
-            {% endif %}
+            {% endif %} -->
 
             <i>Topics:</i> {{ contact.topics }}
+        </div>
+    {% endfor %}
+
+</div>
+<div class="page-display">
+
+    <h2>2020 Team</h2>
+    {% for contact in site.contacts2020 %}
+        <div class="contact-compressed-display">
+            {{ contact.name }}
         </div>
     {% endfor %}
 </div>
