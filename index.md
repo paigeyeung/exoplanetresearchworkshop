@@ -6,7 +6,7 @@ title: Home
 
 ## Latest Update (February 9, 2021)
 
-We've created a new working version of the transit submission notebook! You can find it [here](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. The transit analyzer notebook that is updated to reflect new updates can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}.
+We've created a new working version of the transit submission notebook! You can find it [here](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. The transit analyzer notebook that is updated to reflect new updates can be found [here](https://colab.research.google.com/drive/1kvuzjlFpR3FD5HV9XoGC6yJQxtmBwkbD?usp=sharing){:target="_blank"}. These notebooks will be used for our second iteration of the workshop this spring.
 
 For groups that are writing papers, we've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
 
