@@ -13,10 +13,10 @@ contacts:
     email: paige.yeung@gmail.com
     zoom_url: https://stanford.zoom.us/my/pyeung
     topics: EXOTIC/Colab updates, anything on the website, AIJ/DS9 on Catalina, general questions
-  # - name: Elliott Chalcraft
-  #   email: elliottq@ohs.stanford.edu
-  #   zoom_url: ""
-  #   topics: AIJ for Mac, EXOTIC offline, or anything else!
+  - name: Elliott Chalcraft
+    email: elliottq@ohs.stanford.edu
+    zoom_url: ""
+    topics: AIJ for Mac, EXOTIC offline, or anything else!
   - name: Kalee Tock
     email: kaleeg@stanford.edu
     zoom_url: https://stanford.zoom.us/j/2940180841
