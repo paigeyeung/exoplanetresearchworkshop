@@ -2,6 +2,17 @@
 layout: default
 title: Home
 ---
+
+<div class="page-display" markdown="1">
+
+# Signups Open
+
+Signups are open for the next iteration of the Exoplanet Research Workshop! If you're a pre-college student interested in contributing to exoplanet research as part of [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/){:target="_blank"} and possibly writing a paper on your findings, sign up at the link below.
+
+[Sign Up](https://forms.gle/kpLY8XEyMteNnsPg8){: .button target="_blank"}
+
+</div>
+
 <div class="page-display-light" markdown="1">
 
 ## Latest Update (February 9, 2021)
@@ -26,7 +37,7 @@ As always, please feel free to reach out to your point person for any guidance y
 
 ## The Workshop
 
-The Exoplanet Research Workshop is a group-led project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of (primarily) high school students. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initative.
+The Exoplanet Research Workshop is a group-led project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of pre-college students across the globe. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initative.
 
 We've shared our workshop experiences and citizen science research with the larger space science, citizen science, and science education community at conferences including the [Global Hands-On Universe Conference](https://handsonuniverse.org/ghou2020/){:target="_blank"} (recording [here](https://www.facebook.com/watch/live/?v=949654105549090&t=1720){:target="_blank"}) and the [AGU Fall Meeting](https://www.agu.org/Fall-Meeting). We will later be conducting a meta-study on this workshop and our cumulative findings.
 
@@ -48,7 +59,7 @@ We've shared our workshop experiences and citizen science research with the larg
 
 For those who are just getting started with contributing to Exoplanet Watch, we've posted resources in [Getting Started](/getting-started/). We've posted several of our [meeting recordings and slides](/meetings/) in case you would like to review them.
 
-Previously, we held our large group meetings on Wednesdays at 1pm PDT in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} but later switched over to smaller group meetings for individual teams to focus on their research. Signups are closed, but stay tuned for a new iteration of the workshop.
+In the previous iteration of our workshop, we held large weekly group meetings in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} and later switched over to smaller group meetings for individual teams to focus on their research. We will be running a new iteration this spring. Sign up for our 2021 iteration of the workshop [here](https://forms.gle/kpLY8XEyMteNnsPg8){: target="_blank"}, and we will get in touch with more details.
 
 </div>
 
