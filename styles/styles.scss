@@ -89,6 +89,24 @@ $header-background-path: "/assets/exoplanets.jpg";
 	}
 }
 
+.button {
+	font-weight: 700;
+	font-size: 1.25rem;
+	line-height: 1;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #222;
+	background: $accent-color;
+	padding: .7rem 1.15rem;
+	display: inline-block;
+	border-radius: 5rem;
+	transition: 0.1s;
+}
+
+.button:hover {
+	transform:scale(1.05);
+	color: #222;
+}
 
 #nav {
 	width:90%;
