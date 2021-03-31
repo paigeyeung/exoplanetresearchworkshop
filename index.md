@@ -7,7 +7,7 @@ title: Home
 
 # Signups Open
 
-Signups are open for the next iteration of the Exoplanet Research Workshop! If you're a pre-college student interested in contributing to exoplanet research as part of [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/){:target="_blank"} and possibly writing a paper on your findings, sign up at the link below.
+Signups are open for the next iteration of the Exoplanet Research Workshop! If you're a pre-college student or early undergraduate interested in contributing to exoplanet research as part of [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/){:target="_blank"} and possibly writing a paper on your findings, sign up at the link below, and we will get in touch with you soon.
 
 [Sign Up](https://forms.gle/kpLY8XEyMteNnsPg8){: .button target="_blank"}
 
@@ -67,12 +67,14 @@ In the previous iteration of our workshop, we held large weekly group meetings i
 
 ## Leaderboard
 
-We have transitioned to using the newer version of EXOTIC, and the Colab notebook we originally used to synchronize with the leaderboard does not work with this version. Here is a snapshot of the top 20 from our leaderboard from before the version was released. Thanks all for your participation!
+*Update: We will be creating a new version of this for our 2021 iteration of the workshop. Stay tuned!*
 
-![](/assets/leaderboard.png){: style="max-width:200px;margin:auto;display:block;"}
+We have transitioned to using the newer version of EXOTIC, and the Colab notebook we originally used to synchronize with the leaderboard does not work with this version. Here is the leaderboard from before the version was released. Thank you for your participation this year!
 
-<!-- See below, or check [here](https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing){:target="_blank"} for the leaderboard. If you would like to opt out of the leaderboard, email [Elliott](mailto:elliottq@ohs.stanford.edu){:target="_blank"}.
+<!-- ![](/assets/leaderboard.png){: style="max-width:200px;margin:auto;display:block;"} -->
 
-<center><iframe width='100%' height='500' frameborder='0' scrolling='no' src='https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing'>&range=A1:B54&widget=false&chrome=false</iframe></center> -->
+<!-- See below, or check [here](https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing){:target="_blank"} for the leaderboard. If you would like to opt out of the leaderboard, email [Elliott](mailto:elliottq@ohs.stanford.edu){:target="_blank"}. -->
+
+<center><iframe width='100%' height='500' frameborder='0' scrolling='no' src='https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing'>&range=A1:B54&widget=false&chrome=false</iframe></center>
 
 </div>
