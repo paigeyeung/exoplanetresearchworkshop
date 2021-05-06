@@ -15,9 +15,9 @@ Signups are open for the next iteration of the Exoplanet Research Workshop! If y
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (April 26, 2021)
+## Latest Update (May 6, 2021)
 
-Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. Our next iteration of the workshop is scheduled to launch on May 1, 2021.
+Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. Our next iteration of the workshop is scheduled to launch early this month.
 
 For groups that are writing papers, we've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
 
