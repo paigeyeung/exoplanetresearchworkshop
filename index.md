@@ -15,15 +15,13 @@ Signups are open for the next iteration of the Exoplanet Research Workshop! If y
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (May 6, 2021)
+## Latest Update (May 10, 2021)
 
-Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. Our next iteration of the workshop is scheduled to launch early this month.
+Our 2021 iteration of the Exoplanet Research Workshop has launched! Read the [application document](https://docs.google.com/document/d/1gGFw7xq_9eMRbpl6y2FIfHJqZxXhp9y7tV8SeE9Wasg/edit?usp=sharing){:target="_blank"} and fill out this corresponding [form](https://docs.google.com/forms/d/e/1FAIpQLSe1ZgWNIE9nW2oHUypMrXkaSSMEqOHjPMd2Vmgjn8O1DvdM0w/viewform){:target="_blank"} to get started, and then you'll be approved to proceed with next steps. It would be ideal if you could fill this out before May 17, 2021, but later is fine as well; just keep in mind that you may have more content to catch up on if you submit later.
+
+For participants in the 2020 iteration: Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}.
 
 For groups that are writing papers, we've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
-
-<!-- You can clone an old version of [this repository](https://github.com/rzellem/exotic){:target="_blank"} using Git (tutorial [here](https://stackoverflow.com/questions/12256137/cloning-an-older-version-of-github-repo){:target="_blank"}, or feel free to message Paige for assistance). The [transit submission notebook](https://colab.research.google.com/drive/1C4n-FMeb9v675ScZnBa_dQZpzGlxMbBb?usp=sharing){:target="_blank"} for the 8/22 version of EXOTIC is here. -->
-
-<!-- You can also try running EXOTIC locally or on this [Colab notebook](https://colab.research.google.com/drive/1W1vrgEp9_IjEN16WFxmopLDYvHeYfxpw){:target="_blank"} linked in the EXOTIC repository if you are still running transits or would like to rerun any transits you've run before. If you run the latest version of EXOTIC on your device, it should run much faster now. -->
 
 As always, please feel free to reach out to your point person for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
