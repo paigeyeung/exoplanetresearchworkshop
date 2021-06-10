@@ -17,23 +17,27 @@ You can use this page to refer back to recordings and important information from
 
 ## Recordings, Slides, and Documents
 
-**Week 6 (05/06/2020)**<br>
+**2021: Meeting 1 (06/04/2021)**<br>
+[Recording](https://mit.zoom.us/rec/share/We2sKB6VtBwQGxeNLXqiNofJ4ZeVCIGoOaCcyTRcC82QaDZUv9wgqNQExSxyTfs3.z-MwOw5q-ZZmqJXb){:target="_blank"} |
+[Slides](https://docs.google.com/presentation/d/1hXwGbASW8BhhQzyrP_5CudFSWo41FV0-MGjukd1CN8c/edit){:target="_blank"}
+
+**2020: Meeting 6 (05/06/2020)**<br>
 [Slides](https://docs.google.com/presentation/d/1awG3jgBT4AZ7g8q1tcr0UdZzT8J7uOww5KMNPj96klw/edit?usp=sharing){:target="_blank"}
 
-**Week 5 (04/29/2020)**<br>
+**2020: Meeting 5 (04/29/2020)**<br>
 [Slides](https://docs.google.com/presentation/d/16xA4ZfCgO9hUWngfYZLMrlqkrbz9SaynDN1-mTfHhCo/edit?usp=sharing){:target="_blank"}
 
-**Week 4 (04/22/2020)**<br>
+**2020: Meeting 4 (04/22/2020)**<br>
 [Recording](https://www.youtube.com/watch?v=8Rcvww3l4Xw&feature=youtu.be){:target="_blank"} |
 [Slides](https://docs.google.com/presentation/d/1TR5zDkGk4F0TUMnkbTr-Pw1eKtQY5gaoElxwYrIvNFc/edit?usp=sharing){:target="_blank"} |
 [Tasks/Instructions](https://docs.google.com/document/d/1Bl8x1cWRS_cJc2oFljb9NaK1Ps5YVv3XcK7tgvh97UQ/edit?usp=sharing){:target="_blank"}
 
-**Week 3 (04/15/2020): Proceeding with Groups, Overview of Instrumentation, Classifying Transits**<br>
+**2020: Meeting 3 (04/15/2020): Proceeding with Groups, Overview of Instrumentation, Classifying Transits**<br>
 [Recording](https://youtu.be/Dv3Qohk3Xjc){:target="_blank"} |
 [Slides](https://docs.google.com/presentation/d/1IyMO_ClHzxJPC2caoOVxgDxwnEDMoP9GkXdbzecKq3Y/edit?usp=sharing){:target="_blank"} |
 [Tasks/Instructions](https://docs.google.com/document/d/1E-r3EYDe-3a8I-v_I6EdpZYx4SJX5guC2FZG0qtIDmc/edit?usp=sharing){:target="_blank"}
 
-**Week 2 (04/08/2020): Forming Groups, Discussing EXOTIC Experiences, Introducing New Tools**<br>
+**2020: Meeting 2 (04/08/2020): Forming Groups, Discussing EXOTIC Experiences, Introducing New Tools**<br>
 [Slides](https://docs.google.com/presentation/d/1fcN9alNJefEe088UkIbOuU6Wnjoc6ANuVIlq1CrCwJ4/edit?usp=sharing){:target="_blank"} |
 [Instructions](https://docs.google.com/document/d/1eeHOUUWzGdqnjGcrdQWjdsOnXldMzAZCZPUTrDnUa_k/edit?usp=sharing){:target="_blank"}
 

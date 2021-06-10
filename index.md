@@ -5,9 +5,9 @@ title: Home
 
 <div class="page-display" markdown="1">
 
-# Signups Open
+# Exoplanet Research Workshop 2021
 
-Signups are open for the next iteration of the Exoplanet Research Workshop! If you're a pre-college student or early undergraduate interested in contributing to exoplanet research as part of [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/){:target="_blank"} and possibly writing a paper on your findings, sign up at the link below, and we will get in touch with you soon.
+We are currently running our second iteration of the Exoplanet Research Workshop and welcome new participants on a rolling basis. If you're a pre-college student or early undergraduate interested in contributing to exoplanet research as part of [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/){:target="_blank"} and possibly writing a paper on your findings, sign up for our mailing list at the link below, and we will get in touch with you soon.
 
 [Sign Up](https://forms.gle/kpLY8XEyMteNnsPg8){: .button target="_blank"}
 
@@ -15,9 +15,11 @@ Signups are open for the next iteration of the Exoplanet Research Workshop! If y
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (May 10, 2021)
+## Latest Update (June 9, 2021)
 
-Our 2021 iteration of the Exoplanet Research Workshop has launched! Read the [application document](https://docs.google.com/document/d/1gGFw7xq_9eMRbpl6y2FIfHJqZxXhp9y7tV8SeE9Wasg/edit?usp=sharing){:target="_blank"} and fill out this corresponding [form](https://docs.google.com/forms/d/e/1FAIpQLSe1ZgWNIE9nW2oHUypMrXkaSSMEqOHjPMd2Vmgjn8O1DvdM0w/viewform){:target="_blank"} to get started, and then you'll be approved to proceed with next steps. It would be ideal if you could fill this out before May 17, 2021, but later is fine as well; just keep in mind that you may have more content to catch up on if you submit later.
+Our 2021 iteration of the Exoplanet Research Workshop has launched! View the recording of our first formal large group meeting [here](https://mit.zoom.us/rec/share/We2sKB6VtBwQGxeNLXqiNofJ4ZeVCIGoOaCcyTRcC82QaDZUv9wgqNQExSxyTfs3.z-MwOw5q-ZZmqJXb){:target="_blank"}.
+
+If you have not yet done so, read the [application document](https://docs.google.com/document/d/1gGFw7xq_9eMRbpl6y2FIfHJqZxXhp9y7tV8SeE9Wasg/edit?usp=sharing){:target="_blank"} and fill out this corresponding [form](https://docs.google.com/forms/d/e/1FAIpQLSe1ZgWNIE9nW2oHUypMrXkaSSMEqOHjPMd2Vmgjn8O1DvdM0w/viewform){:target="_blank"} to get started, and then you'll be approved to proceed with next steps.
 
 For participants in the 2020 iteration: Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}.
 
