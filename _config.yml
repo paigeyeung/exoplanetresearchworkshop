@@ -5,14 +5,14 @@ include:
   - _redirects
 
 contacts:
+  - name: Paige Yeung
+    email: pcy@mit.edu
+    zoom_url: https://mit.zoom.us/my/paigeyeung
+    topics: EXOTIC/Colab updates, website resources, AIJ/DS9 on Catalina, general questions
   - name: Quinn Perian
     email: qperian@ohs.stanford.edu
     zoom_url: https://stanford.zoom.us/my/quinnperian
     topics: EXOTIC, Python, AIJ, or the project in general
-  - name: Paige Yeung
-    email: pcy@mit.edu
-    zoom_url: https://mit.zoom.us/my/paige.y
-    topics: EXOTIC/Colab updates, anything on the website, AIJ/DS9 on Catalina, general questions
   - name: Elliott Chalcraft
     email: elliottq@ohs.stanford.edu
     zoom_url: ""
