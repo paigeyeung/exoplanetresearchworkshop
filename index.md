@@ -15,15 +15,13 @@ We are currently running our second iteration of the Exoplanet Research Workshop
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (June 9, 2021)
+## Latest Update (June 11, 2021)
 
-Our 2021 iteration of the Exoplanet Research Workshop has launched! View the recording of our first formal large group meeting [here](https://mit.zoom.us/rec/share/We2sKB6VtBwQGxeNLXqiNofJ4ZeVCIGoOaCcyTRcC82QaDZUv9wgqNQExSxyTfs3.z-MwOw5q-ZZmqJXb){:target="_blank"}.
+Our 2021 iteration of the Exoplanet Research Workshop has launched! View our latest meeting recordings [here](/meetings/).
 
 If you have not yet done so, read the [application document](https://docs.google.com/document/d/1gGFw7xq_9eMRbpl6y2FIfHJqZxXhp9y7tV8SeE9Wasg/edit?usp=sharing){:target="_blank"} and fill out this corresponding [form](https://docs.google.com/forms/d/e/1FAIpQLSe1ZgWNIE9nW2oHUypMrXkaSSMEqOHjPMd2Vmgjn8O1DvdM0w/viewform){:target="_blank"} to get started, and then you'll be approved to proceed with next steps.
 
-For participants in the 2020 iteration: Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}.
-
-For groups that are writing papers, we've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first papers from this workshop will be coming out soon!
+Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. We've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first paper from this workshop has been submitted to the Journal of the AAVSO!
 
 As always, please feel free to reach out to your point person for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
@@ -37,7 +35,7 @@ As always, please feel free to reach out to your point person for any guidance y
 
 ## The Workshop
 
-The Exoplanet Research Workshop is a group-led project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of pre-college students across the globe. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initative.
+The Exoplanet Research Workshop is a group-run project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of pre-college students across the globe. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initative.
 
 We've shared our workshop experiences and citizen science research with the larger space science, citizen science, and science education community at conferences including the [Global Hands-On Universe Conference](https://handsonuniverse.org/ghou2020/){:target="_blank"} (recording [here](https://www.facebook.com/watch/live/?v=949654105549090&t=1720){:target="_blank"}) and the [AGU Fall Meeting](https://www.agu.org/Fall-Meeting). We will later be conducting a meta-study on this workshop and our cumulative findings.
 
@@ -59,7 +57,7 @@ We've shared our workshop experiences and citizen science research with the larg
 
 For those who are just getting started with contributing to Exoplanet Watch, we've posted resources in [Getting Started](/getting-started/). We've posted several of our [meeting recordings and slides](/meetings/) in case you would like to review them.
 
-In the previous iteration of our workshop, we held large weekly group meetings in [Zoom](https://stanford.zoom.us/j/2940180841){:target="_blank"} and later switched over to smaller group meetings for individual teams to focus on their research. We will be running a new iteration this spring. Sign up for our 2021 iteration of the workshop [here](https://forms.gle/kpLY8XEyMteNnsPg8){: target="_blank"}, and we will get in touch with more details.
+In the previous iteration of our workshop, we held large weekly group meetings in Zoom and later switched over to smaller group meetings for individual teams to focus on their research. We will be running a new iteration this spring. Sign up for our 2021 iteration of the workshop [here](https://forms.gle/kpLY8XEyMteNnsPg8){: target="_blank"}, and we will get in touch with more details.
 
 </div>
 

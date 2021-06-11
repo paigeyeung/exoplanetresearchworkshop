@@ -17,6 +17,10 @@ You can use this page to refer back to recordings and important information from
 
 ## Recordings, Slides, and Documents
 
+**2021: Meeting 2 (06/11/2021)**<br>
+[Recording](https://mit.zoom.us/rec/share/-kZdajjf7AptyPzUOWviK0PjhvFY31VnyV3NRG-evmCr-qXSh5W1mWdkhPBL81d6.gNcSxOpbK_uVgvEk?startTime=1623448904000) |
+[Slides](https://docs.google.com/presentation/d/1UIZUT6iplan3fQLD8WJ3eL3x3QvYc2dLo7h69GizZdc/edit){:target="_blank"}
+
 **2021: Meeting 1 (06/04/2021)**<br>
 [Recording](https://mit.zoom.us/rec/share/We2sKB6VtBwQGxeNLXqiNofJ4ZeVCIGoOaCcyTRcC82QaDZUv9wgqNQExSxyTfs3.z-MwOw5q-ZZmqJXb){:target="_blank"} |
 [Slides](https://docs.google.com/presentation/d/1hXwGbASW8BhhQzyrP_5CudFSWo41FV0-MGjukd1CN8c/edit){:target="_blank"}
