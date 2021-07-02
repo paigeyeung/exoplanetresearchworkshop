@@ -3,27 +3,17 @@ layout: default
 title: Home
 ---
 
-<div class="page-display" markdown="1">
-
-# Exoplanet Research Workshop 2021
-
-We are currently running our second iteration of the Exoplanet Research Workshop and welcome new participants on a rolling basis. If you're a pre-college student or early undergraduate interested in contributing to exoplanet research as part of [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/){:target="_blank"} and possibly writing a paper on your findings, sign up for our mailing list at the link below, and we will get in touch with you soon.
-
-[Sign Up](https://forms.gle/kpLY8XEyMteNnsPg8){: .button target="_blank"}
-
-</div>
-
 <div class="page-display-light" markdown="1">
 
-## Latest Update (June 11, 2021)
+## Latest Update (July 2, 2021)
 
-Our 2021 iteration of the Exoplanet Research Workshop has launched! View our latest meeting recordings [here](/meetings/).
-
-If you have not yet done so, read the [application document](https://docs.google.com/document/d/1gGFw7xq_9eMRbpl6y2FIfHJqZxXhp9y7tV8SeE9Wasg/edit?usp=sharing){:target="_blank"} and fill out this corresponding [form](https://docs.google.com/forms/d/e/1FAIpQLSe1ZgWNIE9nW2oHUypMrXkaSSMEqOHjPMd2Vmgjn8O1DvdM0w/viewform){:target="_blank"} to get started, and then you'll be approved to proceed with next steps.
+Our 2021 iteration of the Exoplanet Research Workshop has launched! View our latest meeting recordings [here](/meetings/). If you want to get started or are looking for next steps, see our [Getting Started](/getting-started/) for instructions on how to proceed.
 
 Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. We've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first paper from this workshop has been submitted to the Journal of the AAVSO!
 
-As always, please feel free to reach out to your point person for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
+As always, please feel free to reach out to a workshop leader for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
+
+[Join Our Mailing List](https://groups.google.com/g/exoplanet-research-workshop-2021){: .button target="_blank"}
 
 </div>
 
@@ -63,16 +53,28 @@ In the previous iteration of our workshop, we held large weekly group meetings i
 
 <div class="page-display-light" markdown="1">
 
-## Leaderboard
+## Frequently Asked Questions
 
-*Update: We will be creating a new version of this for our 2021 iteration of the workshop. Stay tuned!*
+**Q: How do I participate?**
 
-We have transitioned to using the newer version of EXOTIC, and the Colab notebook we originally used to synchronize with the leaderboard does not work with this version. Here is the leaderboard from before the version was released. Thank you for your participation this year!
+A: We're glad you're interested! Follow the instructions at the top of the page [here](/getting-started/) to get started.
 
-<!-- ![](/assets/leaderboard.png){: style="max-width:200px;margin:auto;display:block;"} -->
+**Q: Do I need any experience?**
 
-<!-- See below, or check [here](https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing){:target="_blank"} for the leaderboard. If you would like to opt out of the leaderboard, email [Elliott](mailto:elliottq@ohs.stanford.edu){:target="_blank"}. -->
+A: Nope! We'll provide you with all the resources you need.
 
-<center><iframe width='100%' height='500' frameborder='0' scrolling='no' src='https://docs.google.com/spreadsheets/d/186XBseS2LP1QWJaaSwJQzCkS0cBpJ4C8teQdVBPQDpk/edit?usp=sharing'>&range=A1:B54&widget=false&chrome=false</iframe></center>
+**Q: What kinds of papers are written in this workshop?**
+
+A: We expect the papers from this workshop to be about analyzing transits of Qatar-1b, but we welcome you to examine related topics if you would like. See our [Papers](/papers/) page for more information.
+
+**Q: What is the expected time commitment?**
+
+A: You get to decide: you have the option of either writing a paper with a team or just analyzing transits to contribute to our larger meta-study. The timeline for writing the paper is flexible.
+
+**Q: Why am I running into EXOTIC errors?**
+
+A: Please ask in our [Slack workspace](/slack/){: target="_blank"} (or the main Exoplanet Watch workspace, which you'll be added to after we approve you to participate.)
+
+Feel free to contact us through [Slack](/slack/){: target="_blank"} or [email](/contact/) if you have any more questions. We look forward to working with you!
 
 </div>

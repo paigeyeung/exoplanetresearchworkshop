@@ -7,9 +7,23 @@ title: Getting Started
 
 # Getting Started
 
-If you are just getting started, we recommend you to watch the [first meeting recording](https://www.youtube.com/watch?v=WnOaErRsxjs&feature=youtu.be){:target="_blank"}. All the recordings and slides are posted [here](/meetings/) as a resource.
+If you are just getting started, here is a streamlined list of steps to follow.
 
-To get set up, you can start off by downloading imaging software to view the images and using the [EXOTIC program](https://github.com/rzellem/EXOTIC){:target=_blank} to run transits. More resources are below for your reference.
+1. Request to join our mailing list [here](https://groups.google.com/g/exoplanet-research-workshop-2021){:target="_blank"}.
+2. Fill out the [application form](https://forms.gle/GjoxRRsGf31SG6SG9){:target="_blank"}. Join our [Slack workspace](https://join.slack.com/t/exoplanet-research/shared_invite/zt-e3pnufle-yBWk8iC35o7aVbdx7SQXOg){:target="_blank"} to ask any questions.
+3. Fill out the [group formation form](https://forms.gle/3xUgrnQ1RwzuAQzr5){:target="_blank"} so we can put you into a group. This should be linked in the message you see after submitting the application.
+
+### After group assignment:
+
+* **Create the team Google Drive folder.** Share it with your teammates and [exoplanetresearchworkshop@gmail.com](mailto:exoplanetresearchworkshop@gmail.com). You can find your teammates' emails on Slack.
+* **Copy this [template](https://docs.google.com/spreadsheets/d/1i7My0htmAcUIWQrV8PhoynhTV3IgB77kAxvYAPt2a4U/edit?usp=sharing){:target="_blank"} to your team folder.** You will be using the link to the spreadsheet copy as your spreadsheet link for the transit submission form).
+* **Copy the [transit analyzer](/transitanalyzer/){:target="_blank"} and [submission form](/transitsubmission/){:target="_blank"} to your team folder.** You will be using these to run and submit transits.
+* ***(If your team is writing a paper)* Decide how you want to split up the work for the paper.** See [here](/papers/){:target="_blank"} for resources).
+* **Schedule regular (preferably weekly) meetings within your group.** You can hold these meetings in a breakout during our regular Friday 3-4pm Pacific Time group sessions if you like.
+
+If you have any questions or would like a paper draft reviewed, feel free to contact Paige through Slack or email at any time. If you're planning to publish your paper, Kalee Tock (our advisor) and astronomers from Exoplanet Watch will eventually review and comment on your work.
+
+All the recordings and slides are posted [here](/meetings/) as a resource, and more resources are below for your reference.
 
 </div>
 
@@ -22,7 +36,7 @@ To get set up, you can start off by downloading imaging software to view the ima
 
 *Edit (02/09/21): The new EXOTIC transit analyzer notebook now displays the fits files within Colab, but becoming familiar with imaging software should still be helpful for those who are just starting out with exoplanet research.*
 
-We would recommend using AstroImageJ, but feel free to use another astronomical imaging software. AIJ is tricky with Catalina, so if you are running Catalina, SAOImageDS9 may work better.
+We would recommend using AstroImageJ if you choose to use outside imaging software, but feel free to use another astronomical imaging software. AIJ is tricky with Catalina, so if you are running Catalina, SAOImageDS9 may work better.
 
 The links to download AstroImageJ and SAOImageDS9 are [here](https://www.astro.louisville.edu/software/astroimagej/) and [here](http://ds9.si.edu/site/Download.html), respectively. [Contact us](/contact/) if you run into any download issues.
 
@@ -59,7 +73,7 @@ You can also use [this Colab notebook](https://colab.research.google.com/drive/1
     * [Program for recording transit results](https://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}
     * [Program for viewing transits](https://colab.research.google.com/drive/1R4ed26oHP9MzYZBgMZuP4z2QwMS0AULU){:target="_blank"}
     * [Video instructions](https://youtu.be/crLkc3TIDdY){:target="_blank"}
-* [Master Qatar-1 b transit data](https://docs.google.com/spreadsheets/d/1Dxzc-wokpxACASY-wdQwIe3bwgWNYTvwQJmjC5c3YWs/edit){:target="_blank"}
+* [Master Qatar-1 b transit data](https://docs.google.com/spreadsheets/d/1XnjN8fkCO9AoNOVExqsyfPdg6WqngHZ5BZihriYDY-Q/edit#gid=0){:target="_blank"}
 * [Doc for uploading lightcurve images](https://docs.google.com/document/d/1mpFZcO7s-mDykqqrw1Vvk0lCj4KK2TfK768FGKCTu8A/edit?usp=sharing){:target="_blank"}
 * Fixing bad transits
     * [Instructions for fixing bad transits](https://youtu.be/HQAulcrkQok){:target="_blank"}
