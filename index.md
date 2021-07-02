@@ -47,7 +47,7 @@ We've shared our workshop experiences and citizen science research with the larg
 
 For those who are just getting started with contributing to Exoplanet Watch, we've posted resources in [Getting Started](/getting-started/). We've posted several of our [meeting recordings and slides](/meetings/) in case you would like to review them.
 
-In the previous iteration of our workshop, we held large weekly group meetings in Zoom and later switched over to smaller group meetings for individual teams to focus on their research. We will be running a new iteration this spring. Sign up for our 2021 iteration of the workshop [here](https://forms.gle/kpLY8XEyMteNnsPg8){: target="_blank"}, and we will get in touch with more details.
+In our workshop iterations, we first hold large weekly group meetings in Zoom and later switch over to smaller group meetings for individual teams to focus on their research. 
 
 </div>
 
