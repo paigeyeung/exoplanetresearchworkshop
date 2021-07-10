@@ -25,7 +25,7 @@ As always, please feel free to reach out to a workshop leader for any guidance y
 
 ## The Workshop
 
-The Exoplanet Research Workshop is a group-run project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of pre-college students across the globe. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initative.
+The Exoplanet Research Workshop is a group-run project intended to bring the [astronomy research seminar](https://ui.adsabs.harvard.edu/abs/2018AAS...23212207G/abstract){:target="_blank"} experience to a larger population of pre-college students across the globe. Workshop participants contribute research findings to [NASA's Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/), a citizen science initiative.
 
 We've shared our workshop experiences and citizen science research with the larger space science, citizen science, and science education community at conferences including the [Global Hands-On Universe Conference](https://handsonuniverse.org/ghou2020/){:target="_blank"} (recording [here](https://www.facebook.com/watch/live/?v=949654105549090&t=1720){:target="_blank"}) and the [AGU Fall Meeting](https://www.agu.org/Fall-Meeting). We will later be conducting a meta-study on this workshop and our cumulative findings.
 
