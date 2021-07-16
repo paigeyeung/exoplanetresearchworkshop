@@ -7,7 +7,7 @@ This is the website for the [Exoplanet Research Workshop](https://exoplanetresea
 ```
 git clone https://github.com/paigeyeung/exoplanet-research-website
 
-cd exoplanet-research-website
+cd exoplanetresearchworkshop
 
 jekyll serve
 ```
