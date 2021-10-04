@@ -5,9 +5,13 @@ title: Home
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (July 2, 2021)
+## Latest Update (October 4, 2021)
 
-Our 2021 iteration of the Exoplanet Research Workshop has launched! View our latest meeting recordings [here](/meetings/). If you want to get started or are looking for next steps, see our [Getting Started](/getting-started/) for instructions on how to proceed.
+Team applications are open! Find the application [here](https://forms.gle/y5aV4qgNoLksj8so8){:target="_blank"}. You are welcome to join as a casual volunteer, too; just specify if you're interested.
+
+Paige will be presenting at the 110th AAVSO Fall Meeting in person at The Row Hotel in Somerville, MA,  occurring November 6-7, 2021. You can register by following the instructions [here](https://www.aavso.org/110-annual-meeting){:target="_blank"}. We would recommend that you get sponsored by your school/institution to attend if you're interested, as there are registration costs.
+
+For those who are getting started, you can view our meeting recordings for the Exoplanet Research Workshop [here](/meetings/). See our [Getting Started](/getting-started/) page for more detailed instructions on how to proceed.
 
 Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. We've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first paper from this workshop has been submitted to the Journal of the AAVSO!
 
