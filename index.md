@@ -7,7 +7,7 @@ title: Home
 
 ## Latest Update (May 11, 2022)
 
-Congratulations to teams that have published!
+Congratulations to teams that have been accepted for publication! Published papers can be found [here](/publications/).
 
 <!-- Team applications are open! Find the application [here](https://forms.gle/y5aV4qgNoLksj8so8){:target="_blank"}. You are welcome to join as a casual volunteer, too; just specify if you're interested.
 
