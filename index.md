@@ -15,11 +15,11 @@ Paige will be presenting at the 110th AAVSO Fall Meeting in person at The Row Ho
 
 We are currently taking a break from the workshop and will be running another iteration in summer 2022. If you would like to get started, you can view our meeting recordings for the Exoplanet Research Workshop [here](/meetings/). See our [Getting Started](/getting-started/) page for more detailed instructions on how to proceed.
 
-Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. We've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. The first paper from this workshop has been submitted to the Journal of the AAVSO!
+Here are the links to the working versions of the [transit analyzer](http://exoplanetresearch.netlify.app/transitanalyzer){:target="_blank"} and the [transit submission form](http://exoplanetresearch.netlify.app/transitsubmission){:target="_blank"}. We've posted the paper guidelines [here](/papers/). When you have completed your draft, it will be reviewed by your point person and Kalee (in that order) before it is sent to astronomers. 
 
 Please feel free to reach out to [Paige](/contact/) for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
-[Join Our Mailing List](https://groups.google.com/g/exoplanet-research-workshop-2021){: .button target="_blank"}
+[Join Our Mailing List](https://groups.google.com/g/exoplanet-research-workshop-2022){: .button target="_blank"}
 
 </div>
 

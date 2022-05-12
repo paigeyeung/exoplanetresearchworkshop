@@ -9,7 +9,7 @@ title: Getting Started
 
 If you are just getting started, here is a streamlined list of steps to follow.
 
-1. Request to join our mailing list [here](https://groups.google.com/g/exoplanet-research-workshop-2021){:target="_blank"}.
+1. Request to join our mailing list [here](https://groups.google.com/g/exoplanet-research-workshop-2022){:target="_blank"}.
 2. Fill out the [application form](https://forms.gle/GjoxRRsGf31SG6SG9){:target="_blank"}. Join our [Slack workspace](https://join.slack.com/t/exoplanet-research/shared_invite/zt-e3pnufle-yBWk8iC35o7aVbdx7SQXOg){:target="_blank"} to ask any questions.
 3. Fill out the [group formation form](https://forms.gle/3xUgrnQ1RwzuAQzr5){:target="_blank"} so we can put you into a group. This should be linked in the message you see after submitting the application.
 4. Once you have completed the above, steps, you should be given access to the Qatar-1b-transits folder on Google Drive. Go to the "Shared with me" tab, find the folder, and then add the folder (note: *not* a shortcut of the folder!) to your Drive. You can do this by clicking on the folder (once, without opening it), pressing Shift+Z, and then selecting the option to add to your Drive. (You might run into a server error, so this may take a couple of tries before the folder is successfully added.)

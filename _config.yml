@@ -8,15 +8,15 @@ contacts:
   - name: Paige Yeung
     email: pcy@mit.edu
     zoom_url: https://mit.zoom.us/my/paigeyeung
-    topics: EXOTIC/Colab updates, website resources, AIJ/DS9 on Catalina, general questions
-  - name: Quinn Perian
-    email: qperian@ohs.stanford.edu
-    zoom_url: https://stanford.zoom.us/my/quinnperian
-    topics: EXOTIC, Python, AIJ, or the project in general
-  - name: Elliott Chalcraft
-    email: elliottq@ohs.stanford.edu
-    zoom_url: ""
-    topics: AIJ for Mac, EXOTIC offline, or anything else!
+    topics: EXOTIC/Colab updates, website resources, AIJ/DS9, general questions
+  # - name: Quinn Perian
+  #   email: qperian@ohs.stanford.edu
+  #   zoom_url: https://stanford.zoom.us/my/quinnperian
+  #   topics: EXOTIC, Python, AIJ, or the project in general
+  # - name: Elliott Chalcraft
+  #   email: elliottq@ohs.stanford.edu
+  #   zoom_url: ""
+  #   topics: AIJ for Mac, EXOTIC offline, or anything else!
   - name: Kalee Tock (Advisor)
     email: kaleeg@stanford.edu
     zoom_url: https://stanford.zoom.us/j/2940180841
