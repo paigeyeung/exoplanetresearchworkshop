@@ -5,7 +5,7 @@ title: Meetings
 
 <div class="page-display" markdown="1">
 
-# Meetings
+# Meeting Recordings and Documents
 
 **Note:** Most of our meetings beyond the first few large group meetings of each iteration are drop-in meetings, which are not recorded. All the relevant information you need to get going with your project should be either directly entered on this website or linked on this website.
 
@@ -15,15 +15,11 @@ You can use this page to refer back to recordings and important information from
 
 <div class="page-display-light" markdown="1">
 
-## Recordings, Slides, and Documents
-
-### 2021
+## 2021
 
 All recordings are linked [here](https://www.youtube.com/playlist?list=PLnUhPr_0AEna4-qXevfHSbYjupZfdvzTO){:target="_blank"}, and meeting slides (when applicable) are linked [here](https://drive.google.com/drive/folders/1xxwb3j1TdormdbWbahqmnnfmllIjcR50?usp=sharing){:target="_blank"}.
 
----
-
-### 2020
+## 2020
 
 **Meeting 6 (05/06/2020)**<br>
 [Slides](https://docs.google.com/presentation/d/1awG3jgBT4AZ7g8q1tcr0UdZzT8J7uOww5KMNPj96klw/edit?usp=sharing){:target="_blank"}
