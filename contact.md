@@ -7,7 +7,7 @@ title: Contact Us
 
 # Contact Us
 
-You can email any of us (our emails are listed below) or ask questions on our [Slack workspace](https://join.slack.com/t/exoplanet-research/shared_invite/zt-e3pnufle-yBWk8iC35o7aVbdx7SQXOg).
+You can reach us at our team email [exoplanetresearchworkshop@gmail.com] or any one of us at our emails listed below. Feel free to ask questions on our [Slack workspace](/slack/).
 
 </div>
 

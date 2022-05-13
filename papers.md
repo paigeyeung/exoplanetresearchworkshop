@@ -7,7 +7,7 @@ title: Writing Papers
 
 # The Paper Writing Process
 
-This page is a guide to the paper writing process for teams that are writing papers. If you have any further questions about this process, please reach out to your point person. 
+This page is a guide to the paper writing process for teams that are writing papers. Check out our [publications](/publications) page to see papers that previous participants have published. If you have any further questions about this process, please reach out to your point person. 
 
 </div>
 
