@@ -9,11 +9,11 @@ title: Home
 
 Congratulations to teams that have been accepted for publication! Published papers can be found [here](/publications/).
 
-We are currently taking a break from the workshop and will be running another iteration in summer 2022. If you would like to get started, you can view our meeting recordings for the Exoplanet Research Workshop [here](/meetings/). See our [Getting Started](/getting-started/) page for more detailed instructions on how to proceed.
+We are currently preparing to run another iteration of the workshop in summer 2022; our interest form is [here](/interestform/){: target="_blank"}. If you would like to get a head start, you can view our meeting recordings for the Exoplanet Research Workshop [here](/meetings/). See our [Getting Started](/getting-started/) page for more detailed instructions on how to proceed.
 
 Please feel free to reach out to [Paige](/contact/) for any guidance you need. We encourage you to schedule small group meetings to discuss the project and work on tasks within your groups.
 
-[Join Our Mailing List](https://groups.google.com/g/exoplanet-research-workshop-2022){: .button target="_blank"}
+[Join Our Mailing List](/interestform/){: .button target="_blank"}
 
 </div>
 
