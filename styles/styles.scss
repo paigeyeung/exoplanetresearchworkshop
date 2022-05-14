@@ -10,13 +10,10 @@ $header-background-path: "/assets/exoplanets.jpg";
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap');
 
 @media only screen and (max-width: 600px) {
-	.page-display {
+	.page-display, .page-display-light {
 		width: 100%;
 		margin: 0; 
 		padding: 0;
-	}
-	.page-display-light {
-		width: 100%;
 	}
 	.row {
 		display: inline;
@@ -43,11 +40,13 @@ $header-background-path: "/assets/exoplanets.jpg";
 	.column {
 		width: 100%;
 	}
-}
-@media only screen and (min-width: 600px) and (max-width: 900px) {
-	.page-display {
-		width: 75%;
-	}
+
+    .page-display, .page-display-light, .header {
+        width: 90%;
+        margin: 0;
+        padding: 0 5%;
+    }
+
 }
 
 @media only screen and (min-width: 900px) {
@@ -65,9 +64,13 @@ $header-background-path: "/assets/exoplanets.jpg";
 			margin: auto;
 		}
 	}
-	.page-display {
+
+	.page-display, .page-display-light, .header {
 		width: 70%;
+        margin: 0% 11%;
+        padding: 1% 4%;
 	}
+
 	.contact-display {
 		display:inline-block;
 		margin-top: 1rem;
@@ -88,6 +91,31 @@ $header-background-path: "/assets/exoplanets.jpg";
 		margin-right: 1%;
 	}
 }
+
+
+
+.page-display {
+    display: block;
+    // width: 70%;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgba(33, 33, 33, 0.8);
+    color: white;
+    //margin: 0% 11% 0% 11%;
+    //padding: 1% 4%;
+}
+
+.page-display-light {
+    display: block;
+    //width: 70%;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: black;
+    //margin: 0% 11% 0% 11%;
+    //padding: 1% 4%;
+}
+
 
 .button {
 	font-weight: 700;
@@ -122,49 +150,24 @@ $header-background-path: "/assets/exoplanets.jpg";
 	background: url($header-background-path);
 	background-size: cover;
 	display: block;
-	width: 70%;
 	align-items: center;
 	overflow: hidden;
 	background-color: rgba(0, 0, 0, 0.5);
 	color: white;
-	margin: 0% 11% 0% 11%;
-	padding: 1% 4%;
 }
 
 #site-title {
 	font-family: "Lexend Mega";
 }
 
-.page-display {
-	display: block;
-	width: 70%;
-	align-items: center;
-	overflow: hidden;
-	background-color: rgba(33, 33, 33, 0.8);
-	color: white;
-	margin: 0% 11% 0% 11%;
-	padding: 1% 4%;
+.page-display-light a {
+	color: black;
 }
 
 footer p, footer a {
 	text-align: center;
 	color: rgb(255,255,255);
 	opacity: 0.8;
-}
-
-.page-display-light {
-	display: block;
-	width: 70%;
-	align-items: center;
-	overflow: hidden;
-	background-color: rgba(255, 255, 255, 0.9);
-	color: black;
-	margin: 0% 11% 0% 11%;
-	padding: 1% 4%;
-}
-
-.page-display-light a {
-	color: black;
 }
 
 body {
