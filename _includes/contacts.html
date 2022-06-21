@@ -1,14 +1,43 @@
 <div class="page-display-light" id="contact">
     {% for contact in site.contacts %}
         <div class="contact-display">
-            <strong>{{ contact.name }}</strong><br>
+            
+            <div class="readm">
+            <strong style="font-size: 1.1em">{{ contact.name }}   </strong>
+                <a href="#" data-featherlight="#bio-{{ contact.firstname }}">
+                    ✴
+            </a></div>
+            
+            <div style="display:none">
+            <div id="bio-{{ contact.firstname }}">
+            <div class="pop2">
+                <h3>{{ contact.name }}  </h3>
+                <b>Topics:</b> {{ contact.topics }}
+                {% if contact.bio != "" %}
+                <p> {{ contact.bio }} </p>
+                {% endif %}
+            </div>
+            </div>
+            </div>
+
+            
             <a href="mailto:{{ contact.email }}">{{ contact.email }}</a><br>
 
             <!-- {% if contact.zoom_url != "" %}
                 <a href="{{ contact.zoom_url }}">Zoom</a><br>
             {% endif %} -->
 
-            <i>Topics:</i> {{ contact.topics }}
+            
+<!--             
+            <details>
+                <summary>About {{ contact.firstname }}</summary>
+                <i style="margin-top:0;font-size:0.9rem">
+                    {{ contact.bio }}
+                </i>
+            </details> -->
+            
+            
+
         </div>
     {% endfor %}
 

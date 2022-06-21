@@ -6,9 +6,12 @@ include:
 
 contacts:
   - name: Paige Yeung
+    firstname: Paige
     email: pcy@mit.edu
     zoom_url: https://mit.zoom.us/my/paigeyeung
-    topics: EXOTIC/Colab updates, website resources, AIJ/DS9, general questions
+    topics: EXOTIC/Colab updates, background on exoplanets and TTVs, website resources, AIJ/DS9, general questions
+    bio: "Paige has been involved in NASA's Exoplanet Watch since January 2020 and has interests in astronomy, mathematical modeling, conservation science, and science communication. Feel free to reach out!"
+  
   # - name: Quinn Perian
   #   email: qperian@ohs.stanford.edu
   #   zoom_url: https://stanford.zoom.us/my/quinnperian
@@ -17,10 +20,17 @@ contacts:
   #   email: elliottq@ohs.stanford.edu
   #   zoom_url: ""
   #   topics: AIJ for Mac, EXOTIC offline, or anything else!
+  - name: Keshav Narang
+    firstname: Keshav
+    email: keshavn@ohs.stanford.edu
+    topics: EXOTIC, background on exoplanets and TTVs, general questions
+    bio: "Keshav Narang is a junior at Stanford Online High School fascinated by astronomy, machine learning, and data science. He is an enthusiastic member of Exoplanet Watch and currently studies double stars in a student team. In his free time, he enjoys reading and learning the drums, and he is thrilled to be supporting new researchers through the Exoplanet Research Workshop."
   - name: Kalee Tock (Advisor)
+    firstname: Kalee
     email: kaleeg@stanford.edu
     zoom_url: https://stanford.zoom.us/j/2940180841
-    topics: accessing the files if Google Drive misbehaves, general questions
+    topics: accessing Google Drive files, general questions
+    bio: ""
 
 contacts2021:
   - name: Paige Yeung
