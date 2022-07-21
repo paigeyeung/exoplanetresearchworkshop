@@ -15,6 +15,10 @@ You can use this page to refer back to recordings and important information from
 
 <div class="page-display-light" markdown="1">
 
+## 2022
+
+Meeting 1 recording has been posted at this [link](https://www.youtube.com/watch?v=Q6Eauf-klEs). More to come.
+
 ## 2021
 
 All recordings are linked [here](https://www.youtube.com/playlist?list=PLnUhPr_0AEna4-qXevfHSbYjupZfdvzTO){:target="_blank"}, and meeting slides (when applicable) are linked [here](https://drive.google.com/drive/folders/1xxwb3j1TdormdbWbahqmnnfmllIjcR50?usp=sharing){:target="_blank"}.

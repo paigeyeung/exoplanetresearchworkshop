@@ -28,8 +28,9 @@ contacts:
   
   - name: Lindsay Koo
     firstname: Lindsay
-    email:
-    bio: ""
+    email: lykoo@usc.edu
+    topics: general questions about participating in the Exoplanet Research Workshop
+    bio: "Lindsay is passionate about astronomy, optics, astronautics, and public science engagement. She is excited to continue supporting Exoplanet Watch and the Exoplanet Research Workshop, and encourages everyone to get involved."
 
   - name: Kalee Tock (Advisor)
     firstname: Kalee
