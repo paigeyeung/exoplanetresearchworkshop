@@ -5,32 +5,19 @@ include:
   - _redirects
 
 contacts:
-  - name: Paige Yeung
-    firstname: Paige
-    email: pcy@mit.edu
-    zoom_url: https://mit.zoom.us/my/paigeyeung
-    topics: EXOTIC/Colab updates, background on exoplanets and TTVs, website resources, AIJ/DS9, general questions
-    bio: "Paige has been involved in NASA's Exoplanet Watch since January 2020 and has interests in astronomy, mathematical modeling, conservation science, and science communication. Feel free to reach out!"
-  
-  # - name: Quinn Perian
-  #   email: qperian@ohs.stanford.edu
-  #   zoom_url: https://stanford.zoom.us/my/quinnperian
-  #   topics: EXOTIC, Python, AIJ, or the project in general
-  # - name: Elliott Chalcraft
-  #   email: elliottq@ohs.stanford.edu
-  #   zoom_url: ""
-  #   topics: AIJ for Mac, EXOTIC offline, or anything else!
   - name: Keshav Narang
     firstname: Keshav
     email: keshavn@ohs.stanford.edu
     topics: EXOTIC, background on exoplanets and TTVs, general questions
     bio: "Keshav Narang is a junior at Stanford Online High School fascinated by astronomy, machine learning, and data science. He is an enthusiastic member of Exoplanet Watch and currently studies double stars in a student team. In his free time, he enjoys reading and learning the drums, and he is thrilled to be supporting new researchers through the Exoplanet Research Workshop."
   
-  - name: Lindsay Koo
-    firstname: Lindsay
-    email: lykoo@usc.edu
-    topics: general questions about participating in the Exoplanet Research Workshop
-    bio: "Lindsay is passionate about astronomy, optics, astronautics, and public science engagement. She is excited to continue supporting Exoplanet Watch and the Exoplanet Research Workshop, and encourages everyone to get involved."
+  - name: Paige Yeung (Advisor)
+    firstname: Paige
+    email: pcy@mit.edu
+    zoom_url: https://mit.zoom.us/my/paigeyeung
+    topics: EXOTIC/Colab updates, background on exoplanets and TTVs, website resources, AIJ/DS9, general questions
+    bio: "Paige studies math and planetary science at MIT and previously led the Exoplanet Research Workshop for three years.
+    As an advisor, she hopes to continue to inspire students' interest in astronomy and community-based science."
 
   - name: Kalee Tock (Advisor)
     firstname: Kalee
@@ -38,6 +25,12 @@ contacts:
     zoom_url: https://stanford.zoom.us/j/2940180841
     topics: accessing Google Drive files, general questions
     bio: ""
+
+contacts2022:
+  - name: Paige Yeung
+  - name: Keshav Narang
+  - name: Lindsay Koo
+  - name: Kalee Tock (Advisor)
 
 contacts2021:
   - name: Paige Yeung

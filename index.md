@@ -5,11 +5,13 @@ title: Home
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (July 21, 2022)
+## Latest Update (May 1, 2023)
 
-Congratulations to teams that have been accepted for publication! Published papers can be found [here](/publications/).
+Stay tuned for information on the 2023 iteration of the Exoplanet Research Workshop! In the meantime, read more about us below or feel free to contact [exoplanetresearchworkshop@gmail.com](mailto:exoplanetresearchworkshop@gmail.com) with any questions.
 
-We are currently running another iteration of the workshop in summer 2022; please see our [Getting Started](/getting-started/){: target="_blank"} page for information on how to get started. Our application form is [here](/apply/){: target="_blank"}. You can view our past meeting recordings for the Exoplanet Research Workshop [here](/meetings/). 
+You can find our previously published papers [here](/publications/).
+
+<!-- We are currently running another iteration of the workshop in summer 2022; please see our [Getting Started](/getting-started/){: target="_blank"} page for information on how to get started. Our application form is [here](/apply/){: target="_blank"}. You can view our past meeting recordings for the Exoplanet Research Workshop [here](/meetings/).  -->
 
 [Join Our Mailing List](/interestform/){: .button target="_blank"}
 
