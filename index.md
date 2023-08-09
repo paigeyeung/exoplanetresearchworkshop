@@ -5,15 +5,13 @@ title: Home
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (May 1, 2023)
+## Latest Update (August 9, 2023)
 
-Stay tuned for information on the 2023 iteration of the Exoplanet Research Workshop! In the meantime, read more about us below or feel free to contact [exoplanetresearchworkshop@gmail.com](mailto:exoplanetresearchworkshop@gmail.com) with any questions.
+We are no longer organizing the workshop for the time being. If you are interested in our previous work, we encourage you to join the [Slack workspace](https://join.slack.com/t/uol-ets/shared_invite/zt-mvb4ljbo-LRBgpk3uMmUokbs4ge2JlA) for [NASA's Exoplanet Watch program](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/), where you can meet and get support from professional astronomers as well as educators and students.
 
 You can find our previously published papers [here](/publications/).
 
 <!-- We are currently running another iteration of the workshop in summer 2022; please see our [Getting Started](/getting-started/){: target="_blank"} page for information on how to get started. Our application form is [here](/apply/){: target="_blank"}. You can view our past meeting recordings for the Exoplanet Research Workshop [here](/meetings/).  -->
-
-[Join Our Mailing List](/interestform/){: .button target="_blank"}
 
 </div>
 
