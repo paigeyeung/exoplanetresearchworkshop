@@ -5,11 +5,15 @@ title: Home
 
 <div class="page-display-light" markdown="1">
 
-## Latest Update (August 9, 2023)
+## Status of the Exoplanet Research Workshop
 
-We are no longer organizing the workshop for the time being. If you are interested in our previous work, we encourage you to join the [Slack workspace](https://join.slack.com/t/uol-ets/shared_invite/zt-mvb4ljbo-LRBgpk3uMmUokbs4ge2JlA) for [NASA's Exoplanet Watch program](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/), where you can meet and get support from professional astronomers as well as educators and students.
+The last iteration of the Exoplanet Research Workshop was run in 2022. We are no longer organizing the workshop, but this website will remain up for educational and legacy purposes at [exoplanetresearch.netlify.app](https://exoplanetresearch.netlify.app/).
+If you are interested in our previous work, we encourage you to join the [Slack workspace](https://join.slack.com/t/uol-ets/shared_invite/zt-mvb4ljbo-LRBgpk3uMmUokbs4ge2JlA) for [NASA's Exoplanet Watch program](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/), where you can meet and get support from professional astronomers as well as educators and students.
 
-You can find our previously published papers [here](/publications/).
+Between 2020 and 2022, we organized three iterations of the Exoplanet Research Workshop, which we presented about at several conferences. The workshop resulted in several published papers, which you can find [here](/publications/), and numerous additional contributions to the Exoplanet Watch database.
+Our work was featured in the open-access book [*How and When to Involve Crowds in Scientific Research*](https://www.elgaronline.com/monobook-oa/book/9781802204315/9781802204315.xml) in 2024.
+
+
 
 <!-- We are currently running another iteration of the workshop in summer 2022; please see our [Getting Started](/getting-started/){: target="_blank"} page for information on how to get started. Our application form is [here](/apply/){: target="_blank"}. You can view our past meeting recordings for the Exoplanet Research Workshop [here](/meetings/).  -->
 
